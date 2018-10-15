@@ -3,8 +3,6 @@
  */
 var webpack = require('webpack');
 var path = require('path');
-// works across all browsers, we're adding babel-polyfill here.
-//require('babel-polyfill');
 
 module.exports = {
     entry: {

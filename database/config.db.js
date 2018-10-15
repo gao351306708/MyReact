@@ -4,13 +4,13 @@
  */
 var mysql = require('mysql')
 var config = {
-    host: '192.168.11.231',
-    port: 3306,
-    user: 'root',
-    password: 'IDIILCenter',
-    database: 'zhongkaodb'
+    host: '***.***.***.***',//数据库的地址
+    port: '****',//端口号
+    user: '****',//用户名
+    password: '****',//密码
+    database: '****'//数据库名称
 };
-var pool = mysql.createPool(config)//建立连接池
+var pool = mysql.createPool(config)//建立连接池，防止链接过多卡死
 
 console.log("mysql is createPool Connection !!!")
 module.exports = pool;

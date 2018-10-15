@@ -7,13 +7,16 @@ React+nodejs+redux+ant_design+webpack
 
 # 使用
 #### 1、使用git克隆项目到本地
-git clone https://github.com/gao351306708/React.git
+git clone https://github.com/gao351306708/MyReact.git
 #### 2、使用npm或其他管理工具下载依赖包（本人使用npm）
 npm install
 #### 3、启动（进入到项目目录里）
 npm start
 #### 4、查看页面
 在chrome中输入地址：localhost:10000 查看效果！
+
+## 目录结构
+![app_directory](./docs/1.png)![picture_detail](./docs/1.png)
 
 ## 参照
 "https://github.com/Jafeney/tms" （全栈搭建）
