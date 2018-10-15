@@ -1,0 +1,9 @@
+﻿{
+  "topic": "",
+  "content": "（2）、     已知:如图，在平面直角坐标系<i>x</i>O<i>y</i>中，一次函数<i>y</i>＝<img width=48 height=41 src=\"data:image/jpg;base64,R0lGODlhMAApAPEAAAAAAAAAAAAAAAAAACH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH/C05FVFNDQVBFMi4wAwEBAAAh+QQBAAAAACwAAAAAMAApAAAInwABCBxIsKDBgwgTKlzIsKHDhxAjSpyIMIDFABQzCsQ4kKPGjx4/UgwpUiLJkhAvotR4cqXDli4ZwoyZcCZNghdtZsx5UybOngB0bgQqVGhNi0Fb6jS6EGlFhSpZGsxJteZUqlEL2jTK9CDGmVxHDn3adCRHp1MrZgXKtq1Wt1C70vwK96lcl2frvh2rN+jPvkmrAv47uGNhwocTKz4cEAA7AA==\" style='vertical-align:middle;' v:shapes=\"_x0000_i1356\">的图象与<i>x</i>轴和<i>y</i>轴交于",
+  "selectoptions": [],
+  "answer": "易知点A的坐标是（－4，0），点B的坐标是（0，3），∴OA<i>'</i> = 4，OB<i>'</i> = 3，∴A<i>'</i>（0，4），B<i>'</i>（3，0）。    <p>2）若直线A<i>' </i>B<i>' </i>与直线AB相交于点C，求S<sub>四边形OB<i>' </i>CB</sub>的值。</p>",
+  "analysis": "",
+  "knowledge": "<B>对称性，全等三角形的性质，点的坐标</B>",
+  "subquestions": []
+}

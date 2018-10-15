@@ -1,0 +1,14 @@
+﻿{
+  "topic": "",
+  "content": "（1）、     在实数域上定义运算⊙:<i>a</i>⊙<i>b</i>=<i>ab</i>+2<i>a</i>+<i>b</i>，则满足<i>x</i>⊙(<i>x</i>-2) &lt; 0的实数<i>x</i>的取值范围为（    ）",
+  "selectoptions": [
+    "-2&lt;  <i>x </i>&lt;1",
+    "-1&lt;  <i>x </i>&lt;2",
+    "0 &lt;  <i>x </i>&lt;1",
+    "1 &lt;  <i>x </i>&lt; 2"
+  ],
+  "answer": "A。",
+  "analysis": "经整理，<i>x</i>⊙(<i>x</i>-2) &lt; 0，即为<i>x</i><sup>2</sup>+<i>x</i>-2&lt; 0。",
+  "knowledge": "<B>定义新运算，一元二次不等式</B>",
+  "subquestions": []
+}

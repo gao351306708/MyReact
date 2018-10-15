@@ -1,0 +1,14 @@
+﻿{
+  "topic": "",
+  "content": "（2）、    下列说法中，正确的是（　　）",
+  "selectoptions": [
+    "一个有理数，如果它不是正数，那么它一定是负数",
+    "如果盈利26元记作+26元，那么亏损68元记-68元",
+    "<i>a</i>的倒数是<img width=16 height=41 src=\"data:image/jpg;base64,R0lGODlhEAApAPEAAAAAAAAAAAAAAAAAACH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH/C05FVFNDQVBFMi4wAwEBAAAh+QQBAAAAACwAAAAAEAApAAAIVAABCBxIsKDBgwgTKlxoMABDAAEiPhTocGLFhxcZZly4UWHHhB8RhmwocaLJkyhTqiwYsaXLkStjypxJs6ZHhzAhUoR5kSdBnzs9Bh3ZEmJOmygDAgA7AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==\" style='vertical-align:middle;' v:shapes=\"_x0000_i1025\">",
+    "绝对值等于它本身的数是l"
+  ],
+  "answer": "B。",
+  "analysis": "选项A，0既不是正数，也不是负数；选项C，<i>a</i>的倒数是<img width=16 height=41 src=\"data:image/jpg;base64,R0lGODlhEAApAPEAAAAAAAAAAAAAAAAAACH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH/C05FVFNDQVBFMi4wAwEBAAAh+QQBAAAAACwAAAAAEAApAAAIVAABCBxIsKDBgwgTKlxoMABDAAEiPhTocGLFhxcZZly4UWHHhB8RhmwocaLJkyhTqiwYsaXLkStjypxJs6ZHhzAhUoR5kSdBnzs9Bh3ZEmJOmygDAgA7AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==\" style='vertical-align:middle;' v:shapes=\"_x0000_i1026\">，要求<i>a</i>≠0；选项D，绝对值等于本身的有0和1。",
+  "knowledge": "<B>正数与负数，有理数，倒数，绝对值</B>",
+  "subquestions": []
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "code": 200,
+    "data": [
+      {
+        "ExamInfoID": "1527147768335",
+        "UserID": "IDIIL0000001",
+        "ExamPaperID": "6df1e798-91f7-470f-9bc2-6f9c52763f02",
+        "StartDate": "2018-05-24T15:42:48+08:00",
+        "FinishDate": "2018-05-24T15:44:25+08:00",
+        "UpdateDate": null,
+        "SpendTime": 0,
+        "ExamType": "一测",
+        "Score": 11,
+        "ExamResult": "[{\"QuesID\":\"Q_b65475ec-74f2-47f9-ba5f-d286bb57df30\",\"QuesType\":\"选择题\",\"Contents\":[{\"domid\":\"\",\"content\":\"B\",\"url\":\"\",\"IsTrue\":true}],\"score\":3},{\"QuesID\":\"Q_23bdc77a-9b0b-4e01-91f8-1f4588201506\",\"QuesType\":\"选择题\",\"Contents\":[{\"domid\":\"\",\"content\":\"A\",\"url\":\"\",\"IsTrue\":true}],\"score\":3},{\"QuesID\":\"Q_ecff1918-a403-4dc4-8450-ead5b66f9e36\",\"QuesType\":\"填空题\",\"Contents\":[{\"domid\":\"practice30\",\"content\":\"70\",\"url\":\"\",\"IsTrue\":false}],\"score\":0},{\"QuesID\":\"Q_a9404c48-4042-46a4-9b4c-77051497cda6\",\"QuesType\":\"填空题\",\"Contents\":[{\"domid\":\"practice40\",\"content\":\"x+9\",\"url\":\"\",\"IsTrue\":false}],\"score\":0},{\"QuesID\":\"Q_36e866ef-ba15-48ac-b3fd-a319b68b1697\",\"QuesType\":\"简答题\",\"Contents\":[{\"domid\":\"practice50\",\"content\":\"\",\"url\":\"http://localhost:10000/all_images/admin/f1rOwMwOQ4W3RzLY1527147834230.png\",\"IsTrue\":true}],\"score\":5}]",
+        "DoExamInfo": "[]",
+        "IsDone": "yes"
+      }
+    ]
+  }
+]

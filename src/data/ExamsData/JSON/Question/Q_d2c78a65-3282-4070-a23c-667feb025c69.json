@@ -1,0 +1,9 @@
+﻿{
+  "topic": "",
+  "content": "【<B>提示分析</B><B>】</B>:#在需要二测时，和题目一起出现#  <p><B></B><B>切线的性质，解直角三角形，大圆的半径OA=________</B><u>blank</u><B> </B> </p>  <p><i> </i></p>  <p>由切线的性质，可知OP⊥AB，AB=<img width=39 height=24 src=\"data:image/jpg;base64,R0lGODlhJwAYAPEAAAAAAAAAAAAAAAAAACH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH/C05FVFNDQVBFMi4wAwEBAAAh+QQBAAAAACwAAAAAJwAYAAAIfAABCBxIsKDBgwgTKlzIsKHDhxARBphIkWLEhgEuagSQcSPEjh4fgnQ4kuNEhiArSjw5MOXCjiNLEow5M6FMgTdx2txpMKdOiTxrKszpk2NBi0GFtnQJtKlSnUwP+iw59afUpDSFErXJ0qTKo1SRhpxZdOxRs2jTql0rMCAAOwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==\" style='vertical-align:middle;' v:shapes=\"_x0000_i1164\">，OP=6，解直角三角形，可知，OA=________<u>blank</u>______________，∠AOP=________<u>blank</u>_____________°，∠AOB= _________<u>blank</u>___________°，依据弧长公式，可求劣弧AB的长。</p>",
+  "selectoptions": [],
+  "answer": "12 ||12 ||60 ||120",
+  "analysis": "",
+  "knowledge": "",
+  "subquestions": []
+}

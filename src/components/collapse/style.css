@@ -1,0 +1,19 @@
+.myCollapse{
+}
+.myCollapse .myCollapseHeader{
+    height: 48px;
+    line-height: 48px;
+    width: 100%;
+    padding-left: 32px;
+    background-color: #dfe6ecd1;
+    border: 1px solid #d9d9d9;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    cursor: pointer;
+}
+.myCollapse .myCollapseList{
+    min-height: 34px;
+    width: 100%;
+    border: 1px solid #d9d9d9;
+    padding: 5px 12px;
+}

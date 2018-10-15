@@ -1,0 +1,143 @@
+{
+  "examPaperId": "a635f4e3-3e24-48a4-91c7-938468e01fe9",
+  "userId": "IDIIL0000001",
+  "score": "80",
+  "allDone": "yes",
+  "allQuesNum": 20,
+  "currentNum": 18,
+  "startTime": "",
+  "endTime": "",
+  "childs": [
+    {
+      "questionid": "",
+      "QuesType": "选择题",
+      "anwser": [],
+      "scroe": 10,
+      "isRight": true,
+      "childs": [
+        {
+          "Objective": [
+            {
+              "itemid": "",
+              "content": [{
+                "answer":"",
+                "knowledges":[{
+                  "name":"",
+                  "rightRank":""
+                },{
+                  "name":"",
+                  "rightRank":""
+                }]
+              },{
+                "answer":"",
+                "knowledges":[{
+                  "name":"",
+                  "rightRank":""
+                },{
+                  "name":"",
+                  "rightRank":""
+                }]
+              }]
+            }
+          ],
+          "Review": [
+            {
+              "itemid": "",
+              "content": [{
+                "answer":"",
+                "knowledges":[{
+                  "name":"",
+                  "rightRank":""
+                },{
+                  "name":"",
+                  "rightRank":""
+                }]
+              },{
+                "answer":"",
+                "knowledges":[{
+                  "name":"",
+                  "rightRank":""
+                },{
+                  "name":"",
+                  "rightRank":""
+                }]
+              }]
+            }
+          ],
+          "Analysis": [
+            {
+              "itemid": "",
+              "anwser": [],
+              "fills": [
+                {
+                  "knowledges": [
+                    "三角函数",
+                    "勾股定理"
+                  ],
+                  "isRight": true,
+                  "childNum": 2,
+                  "rightNum": 1,
+                  "knowledgesChilds": [
+                    {
+                      "knowledgeid": "",
+                      "anwser": [],
+                      "isRight": true
+                    },
+                    {
+                      "knowledgeid": "",
+                      "anwser": [],
+                      "isRight": false
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "Expalin": [
+            {
+              "itemid": "",
+              "anwser": [],
+              "fills": [
+                {
+                  "knowledges": [
+                    "三角函数",
+                    "勾股定理"
+                  ],
+                  "isRight": true,
+                  "childNum": 2,
+                  "rightNum": 1,
+                  "knowledgesChilds": [
+                    {
+                      "knowledgeid": "",
+                      "anwser": [],
+                      "isRight": true
+                    },
+                    {
+                      "knowledgeid": "",
+                      "anwser": [],
+                      "isRight": false
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "Exercise1": [
+            {
+              "questionid": "",
+              "anwser": [],
+              "contents": []
+            }
+          ],
+          "Exercise2": [
+            {
+              "questionid": "",
+              "anwser": [],
+              "contents": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

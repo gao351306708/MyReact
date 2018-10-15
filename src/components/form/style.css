@@ -1,0 +1,14 @@
+.form1{
+    height: 650px;
+    overflow-y: auto;
+}
+.form1 .practice{
+    margin: 5px 0;
+}
+.form1 .practice img{
+    max-width: 100%;
+}
+.form1 .submit_btn{
+    float: right;
+    margin: 10px 20px 10px 0;
+}

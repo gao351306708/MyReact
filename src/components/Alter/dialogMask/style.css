@@ -1,0 +1,106 @@
+.Dialog-content{
+    position: fixed;
+    overflow: hidden;
+    z-index: 1001;
+    top: 50%;
+    left: 50%;
+    background-color: white;
+    border-radius: 8px;
+}
+.Dialog-content header{
+    height: 50px;
+    background-color: #4abde6;
+}
+.Dialog-content header h3{
+    float: left;
+    margin: 0px;
+    padding-left: 10px;
+    line-height: 50px;
+}
+.Dialog-content .exit{
+    float: right;
+    right: 5px;
+    top: 10px;
+}
+.Dialog-content section{
+    position: relative;
+    padding: 10px 40px;
+    height: 750px;
+    overflow-y: auto;
+}
+
+@media (max-width:800px){
+    .Dialog-content {
+        width: 400px;
+        height: 250px;
+        margin-left: -200px;
+        margin-top: -125px;
+    }
+    .Dialog-content section{
+        height: 200px;
+    }
+    .Dialog-content section form{
+        position: relative;
+        min-height: 150px;
+    }
+}
+@media (min-width:800px)and (max-width: 1024px){
+    .Dialog-content {
+        width: 600px;
+        height: 400px;
+        margin-left: -300px;
+        margin-top: -200px;
+    }
+    .Dialog-content section{
+        height: 350px;
+    }
+    .Dialog-content section form{
+        position: relative;
+        min-height: 300px;
+    }
+}
+@media (min-width:1024px)and (max-width: 1280px){
+    .Dialog-content {
+        width: 800px;
+        height: 600px;
+        margin-left: -400px;
+        margin-top: -300px;
+    }
+    .Dialog-content section{
+        height: 550px;
+    }
+    .Dialog-content section form{
+        position: relative;
+        min-height: 500px;
+    }
+}
+@media (min-width:1280px) and (max-width: 1520px){
+    .Dialog-content {
+        width: 960px;
+        height: 760px;
+        margin-left: -480px;
+        margin-top: -380px;
+    }
+    .Dialog-content section{
+        height: 710px;
+    }
+    .Dialog-content section form{
+        position: relative;
+        min-height: 660px;
+    }
+}
+@media (min-width:1520px){
+    .Dialog-content {
+        width: 1024px;
+        height: 800px;
+        margin-left: -512px;
+        margin-top: -400px;
+    }
+    .Dialog-content section{
+        height: 750px;
+    }
+    .Dialog-content section form{
+        position: relative;
+        min-height: 700px;
+    }
+}

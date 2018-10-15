@@ -1,0 +1,12 @@
+.exciseTips{
+    padding: 20px;
+}
+.exciseTips ul li{
+    height: 48px;
+    line-height: 48px;
+    font-size: 18px;
+}
+.btnDownload{
+    margin-left: 15px;
+    text-decoration: underline;
+}

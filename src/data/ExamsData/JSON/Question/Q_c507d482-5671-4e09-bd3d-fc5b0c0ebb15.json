@@ -1,0 +1,14 @@
+﻿{
+  "topic": "",
+  "content": "（2）、     对于实数<i>u</i>，<i>v</i>，定义一种运算“*”为:<i>u</i>*<i>v</i>=<i>uv</i>+<i>v</i>。若关于<i>x</i>的方程<i>x</i>*（<i>a</i>*<i>x</i>）=<img width=28 height=41 src=\"data:image/jpg;base64,R0lGODlhHAApAPEAAAAAAAAAAAAAAAAAACH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH/C05FVFNDQVBFMi4wAwEBAAAh+QQBAAAAACwAAAAAHAApAAAIYwABCBxIsKDBgwgTKlzIsKHDhwwDQEwYoOJEhRIvIsyo0SDHjgQ/ghQocmRJkCc7prxYceXIlzBjytTYsqbLlzZrztzJs6dPlTItwpR40yHRoSRxDiyKMaTJnEFnMjX6s2rMgAA7AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==\" style='vertical-align:middle;' v:shapes=\"_x0000_i1137\">有两个不同的实数根，则满足条件的实数<i>a</i>的取值范围是（     ）",
+  "selectoptions": [
+    "<i>a&lt;</i>-1",
+    "<i>a&lt;</i>0或<i>a</i> &gt;2",
+    "<i>a&lt;</i>-1或<i>a</i> &gt;0",
+    "<i>a</i> &gt;2"
+  ],
+  "answer": "C。",
+  "analysis": "由<i>x</i>*（<i>a</i>*<i>x</i>）=<img width=28 height=41 src=\"data:image/jpg;base64,R0lGODlhHAApAPEAAAAAAAAAAAAAAAAAACH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH/C05FVFNDQVBFMi4wAwEBAAAh+QQBAAAAACwAAAAAHAApAAAIYwABCBxIsKDBgwgTKlzIsKHDhwwDQEwYoOJEhRIvIsyo0SDHjgQ/ghQocmRJkCc7prxYceXIlzBjytTYsqbLlzZrztzJs6dPlTItwpR40yHRoSRxDiyKMaTJnEFnMjX6s2rMgAA7AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==\" style='vertical-align:middle;' v:shapes=\"_x0000_i1138\">可得，(<i>a</i>+1)<i>x</i><sup>2 </sup>+ (<i>a</i>+1)<i>x+ </i><img width=16 height=41 src=\"data:image/jpg;base64,R0lGODlhEAApAPEAAAAAAAAAAAAAAAAAACH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH/C05FVFNDQVBFMi4wAwEBAAAh+QQBAAAAACwAAAAAEAApAAAIVgABCBxIsKDBgwgTKlxoMABDAAEiPhTocGLFhxcZZly4UWHHhB8RhmwocaLJkyhTqiwYsaXLlTBjyjw4kmXNgQ5vUoSocadHnD+BgnRZsqdFkzpnpgwIADsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==\" style='vertical-align:middle;' v:shapes=\"_x0000_i1139\">=0有两个不同的实根。于是<i>a</i>+1 ≠0，且(<i>a</i>+1)<sup>2 </sup>－(<i>a</i>+1) &gt; 0，解之即可。",
+  "knowledge": "<B>定义新运算，一元二次方程</B>",
+  "subquestions": []
+}

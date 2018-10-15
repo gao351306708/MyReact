@@ -1,0 +1,381 @@
+{
+  "code":200,
+  "data":{
+    "topic": "2016年广州市初中毕业生学业考试",
+    "content": "",
+    "selectoptions": [],
+    "answer": "",
+    "analysis": "",
+    "subquestions": [{
+      "Content": [
+        "Q_b6e2010d-88fe-4912-82f4-23cbfaf9254e"
+      ],
+      "Objective": [],
+      "Analysis": [
+        "Q_8ea991b1-c78c-449c-81df-bed29a22454f"
+      ],
+      "Explain": [],
+      "Exercise1": [
+        "Q_c03cbe5d-de82-4ace-b9b8-ce67ded47080",
+        "Q_a49bb38a-e0d1-4738-9c3d-3bff03e3f56b",
+        "Q_0f233c5d-377d-4f6e-9c7f-9f7d093823e1"
+      ],
+      "Exercise2": [
+        "Q_41860eac-2bb0-4288-b490-480dd10eb113",
+        "Q_a1084dc6-0c96-446f-ae6e-8d91e2e13d54",
+        "Q_ee555d65-f6dd-480e-af8d-5d9446fc0cb0"
+      ]
+    }, {
+      "Content": [
+        "Q_036d17ba-e171-4f04-b79d-ca1cebeefff7"
+      ],
+      "Objective": [],
+      "Analysis": [
+        "Q_74e44d8f-c149-459e-aeab-bc0b65d4c29e"
+      ],
+      "Explain": [],
+      "Exercise1": [
+        "Q_3a40c38c-f231-40c8-a8b8-0515e3e35cf1",
+        "Q_a4e57949-9fb4-40a4-8b73-b22ff6454cce",
+        "Q_42a1ffdc-e9f8-4f19-a2f5-fb1373ee3e89"
+      ],
+      "Exercise2": [
+        "Q_dcf5c412-b1ed-4952-ae14-fa5aa5cdbc4c",
+        "Q_9ea01676-c5c7-42d7-8c2f-89f8ff6073b1",
+        "Q_ce074666-d575-45f4-81e2-b14c6f8ad72c"
+      ]
+    }, {
+      "Content": [
+        "Q_c94b9112-f5cd-48c4-b186-ff818104c934"
+      ],
+      "Objective": [],
+      "Analysis": [
+        "Q_c0506037-a972-4f27-8ca9-2965b057b598"
+      ],
+      "Explain": [
+        "Q_664dba7b-6c59-4bbd-b222-9782f724616f"
+      ],
+      "Exercise1": [
+        "Q_c5e69120-5130-4cc4-983c-4a137d95258d",
+        "Q_5a0b27eb-3b92-424e-be6f-e62f95d58efa",
+        "Q_7ab05bf9-6090-40fa-9541-6f50c9705081"
+      ],
+      "Exercise2": [
+        "Q_102266fa-44d3-4f9f-b4e7-d63397b46fe0",
+        "Q_aee9e179-822e-4d9b-801f-2fbcf7433545",
+        "Q_7c1cb869-e819-4ab4-9129-e962f7ae4175"
+      ]
+    }, {
+      "Content": [
+        "Q_0c275dd9-f7dc-4b57-b6ec-7b5ee22cdcdb"
+      ],
+      "Objective": [],
+      "Analysis": [
+        "Q_49d0298d-fdbb-49f1-9bc1-d383adead1d6"
+      ],
+      "Explain": [],
+      "Exercise1": [
+        "Q_34a2e71c-5553-4144-b2e8-8036a3098d6d",
+        "Q_5fed0bd0-fe60-453f-8bcd-c8fc03c689c4",
+        "Q_44a91683-1fd2-4c36-b2a4-dbe53608a894"
+      ],
+      "Exercise2": [
+        "Q_126940a0-b443-43d6-82d0-b09e15e9704c",
+        "Q_4cadc4b8-1a25-417d-8da2-5fd1c95fb1d5",
+        "Q_0c77f072-dbac-4b59-9b23-ab081c35c6de"
+      ]
+    }, {
+      "Content": [
+        "Q_a21b2687-3c71-46a6-96fa-ce477e9f97c2"
+      ],
+      "Objective": [],
+      "Analysis": [
+        "Q_98a054d7-1bec-466a-a559-51039d79049b"
+      ],
+      "Explain": [
+        "Q_7802a140-1a6c-4efb-ab6d-700167da4357"
+      ],
+      "Exercise1": [
+        "Q_0f5adc3d-8173-4a8a-8622-70f586da273c",
+        "Q_0c817ab8-51f9-44e4-81a6-9da99c57089b",
+        "Q_96c06590-19b0-4d4d-b2b7-01f53f754636"
+      ],
+      "Exercise2": [
+        "Q_32a9faca-d97b-4b67-8fd3-ee886a4b143e",
+        "Q_bb45971e-1a08-4805-94b1-82f9fa066b29",
+        "Q_920764f9-ffcf-4b8b-9622-a08e10156a64"
+      ]
+    }, {
+      "Content": [
+        "Q_8fcb705c-39a1-47ab-ae78-b6a8cb23f1d9"
+      ],
+      "Objective": [],
+      "Analysis": [
+        "Q_44914529-a9b0-42aa-b25a-44fde34dfa35"
+      ],
+      "Explain": [
+        "Q_aeacff8f-0f62-48e4-a9ff-a9338b87914f"
+      ],
+      "Exercise1": [
+        "Q_e7c3d689-e61e-4b3b-b602-a6dd8c06d82f",
+        "Q_a0c0ee8c-1854-4f86-9258-232120fc1cb0",
+        "Q_4a6afc73-d7c0-42aa-ab59-ff72b6069cd5"
+      ],
+      "Exercise2": [
+        "Q_9e4970db-577c-4867-87e0-d27586454c4d",
+        "Q_3b7a88b4-2901-478b-a983-68eca56f0a74",
+        "Q_df3c23e3-7a56-4e15-b267-6b86e477ffcd"
+      ]
+    }, {
+      "Content": [
+        "Q_85fda9ef-fabf-45d1-974b-8a5af220edaf"
+      ],
+      "Objective": [],
+      "Analysis": [
+        "Q_26834cd0-5b90-46ca-b205-dcab1ecbdb37"
+      ],
+      "Explain": [],
+      "Exercise1": [
+        "Q_068d6049-7e9b-4b28-a961-2e7bfb16d440",
+        "Q_74686b9b-e78e-44f5-b8f8-da35c95ec862",
+        "Q_028f725a-c9e4-4103-8f4c-8feb1db6c37a"
+      ],
+      "Exercise2": [
+        "Q_3d9b2806-e9a4-4c97-8d9b-671449a3df59",
+        "Q_9e7f730e-695b-4565-9316-408833f46144",
+        "Q_9b931bf6-2e1c-40d8-b8f8-0c10e3c8026b"
+      ]
+    }, {
+      "Content": [
+        "Q_b7ca0736-3003-4b6c-8cfd-edf2b22a28ea"
+      ],
+      "Objective": [],
+      "Analysis": [
+        "Q_f27fc790-3df9-4c53-bd4c-a4552c64c47c"
+      ],
+      "Explain": [],
+      "Exercise1": [
+        "Q_0618255a-f6a0-4167-8635-a6a0195baa00",
+        "Q_41a8be8f-bccd-484f-8d14-b81c72180073",
+        "Q_80baf2e1-c58a-40a1-8972-24a8890843d5"
+      ],
+      "Exercise2": [
+        "Q_9cc07a44-d2b2-4845-a9c5-cda0a29adbbe",
+        "Q_dd324991-324e-4d35-b243-8a32f4bd9c2f",
+        "Q_7d66d91f-23c9-439b-a435-da29b7e77f1b"
+      ]
+    }, {
+      "Content": [
+        "Q_2344a51e-4ecc-4002-ab22-d50d6fa9ed13"
+      ],
+      "Objective": [],
+      "Analysis": [
+        "Q_e1359cce-5a22-41e6-bccd-302a006a2340"
+      ],
+      "Explain": [],
+      "Exercise1": [
+        "Q_d926c82a-756c-4083-8ad2-3ae409ed2b06",
+        "Q_69632111-0737-4eaf-8961-7afcfcf596cd",
+        "Q_02f419bf-69f7-48ce-9317-586d71064e6d"
+      ],
+      "Exercise2": [
+        "Q_54cbae34-ca98-46e0-81c9-f0518fbeb66a",
+        "Q_65a58b48-cf53-44c4-9516-6797e2922e9d",
+        "Q_d184847d-eff8-474f-8ea1-320cb059aaa1"
+      ]
+    }, {
+      "Content": [
+        "Q_f88699a6-a513-4641-b6b9-de2d175d6122"
+      ],
+      "Objective": [],
+      "Analysis": [
+        "Q_0267c65f-544e-491a-8db4-ec7640ebec97"
+      ],
+      "Explain": [],
+      "Exercise1": [
+        "Q_84513dcc-bf14-49c2-8b78-a42a30a2640a",
+        "Q_4a9eb5a4-f52f-4592-b4b4-8991b962a3a6",
+        "Q_3242ec2d-8f76-4aa1-8328-beaa3baa6202"
+      ],
+      "Exercise2": [
+        "Q_35430902-fa85-438d-81c4-6a13723e2ab0",
+        "Q_c507d482-5671-4e09-bd3d-fc5b0c0ebb15",
+        "Q_30c0da5f-f724-4761-9556-878af20f9284"
+      ]
+    }, {
+      "Content": [
+        "Q_66572a60-0cbc-4401-99d7-18b4d221f89e"
+      ],
+      "Objective": [],
+      "Analysis": [
+        "Q_4b473205-1096-4707-9a84-e9a3b35da58f"
+      ],
+      "Explain": [],
+      "Exercise1": [
+        "Q_b681a812-9aee-4bf2-a480-b84dfd959ea7",
+        "Q_749b1792-5a08-4c5e-942e-fb3b9021a932",
+        "Q_8442588f-c96d-4140-a40a-5f8ba1da2896"
+      ],
+      "Exercise2": [
+        "Q_002dfab0-e00b-4c52-b677-7ab957405d12",
+        "Q_9955b63d-d718-4db3-b16f-cbe31178916e",
+        "Q_8f3313b2-66b6-447b-aeb8-116542a85257"
+      ]
+    }, {
+      "Content": [
+        "Q_cae9626d-62b8-4b70-ae89-c4e2fff68a2d"
+      ],
+      "Objective": [],
+      "Analysis": [
+        "Q_7d1e0a1a-9d88-4451-aea4-50f174471729"
+      ],
+      "Explain": [],
+      "Exercise1": [
+        "Q_656ee1b5-2a6a-4b69-b239-336349c0419d",
+        "Q_2e8cfe15-6d1f-4e5d-ac19-bb80d112e784",
+        "Q_8adaaf39-1287-4bdc-af40-6898410bf189"
+      ],
+      "Exercise2": [
+        "Q_8ccc5563-b42c-4971-bc02-35c8c66eea52",
+        "Q_389053dd-e893-420e-969e-a6521f636951",
+        "Q_8d9df261-3499-4d88-9605-34e1329e9003"
+      ]
+    }, {
+      "Content": [
+        "Q_0163dc1d-8cce-4b0c-8e82-6b6faa8123ae"
+      ],
+      "Objective": [],
+      "Analysis": [
+        "Q_a82241e7-fec3-458f-a399-cad9f9ac35aa"
+      ],
+      "Explain": [],
+      "Exercise1": [
+        "Q_13486528-a88a-4c9c-9f9f-2a8bfdfca36b",
+        "Q_62872a01-f1ff-48f1-9125-99d6d5d862a0",
+        "Q_195e21df-13a9-41e6-8fc8-49c1951f0ffc"
+      ],
+      "Exercise2": [
+        "Q_be16ee2a-16fc-4d1c-b8ce-b4ad7f9d6d14",
+        "Q_afac6552-13ac-487d-985c-37f8da4af46e",
+        "Q_b22817f1-3f09-4178-a690-ad06ee3ced12"
+      ]
+    }, {
+      "Content": [
+        "Q_cc346e22-dda4-4b44-aa47-4f09fc8e9048"
+      ],
+      "Objective": [],
+      "Analysis": [
+        "Q_47894d82-f8e7-4ea8-a371-910049f825e0"
+      ],
+      "Explain": [],
+      "Exercise1": [
+        "Q_6d46609a-b401-4bd9-999d-545b722c312f",
+        "Q_61e18765-9f8f-4df7-a109-8ce18b49b64f",
+        "Q_675fe3d6-3359-46fb-9cac-8070a6989b15"
+      ],
+      "Exercise2": [
+        "Q_e965018a-95c2-4918-af60-a6a300b2ea46",
+        "Q_be279e81-d36f-4607-ab75-f7d1af2b870c",
+        "Q_1cf6f67c-68ef-4b30-b3fd-38daadf742af"
+      ]
+    }, {
+      "Content": [
+        "Q_691a254e-9a7c-4d58-9f4a-0430e2658f5e"
+      ],
+      "Objective": [],
+      "Analysis": [
+        "Q_d2c78a65-3282-4070-a23c-667feb025c69"
+      ],
+      "Explain": [],
+      "Exercise1": [
+        "Q_b8754f94-076d-4f38-92c2-8afc1f1e77c5",
+        "Q_081e808b-4862-464c-b941-f5079eec8b2b",
+        "Q_83618dac-bc9d-4300-94fc-88660c059ccf"
+      ],
+      "Exercise2": [
+        "Q_6b3ef2f1-520c-4991-8c0a-b4e832dbb1b1",
+        "Q_71596495-15f9-4405-9930-064cd64b486d",
+        "Q_3441b61f-4db2-4775-b3b8-093442344523"
+      ]
+    }, {
+      "Content": [
+        "Q_6e5c378b-0f4c-4a70-9baf-c9a7be63d776"
+      ],
+      "Objective": [],
+      "Analysis": [
+        "Q_928cce6f-d6f9-4fb7-87b3-7ca46989ea68"
+      ],
+      "Explain": [
+        "Q_90cd02b9-a825-4442-89bf-12d3d72e1329"
+      ],
+      "Exercise1": [
+        "Q_dea2c510-d2bc-4db2-9ffc-361f64a109bd",
+        "Q_14361fa5-1171-4a5e-9246-100ff25d102f",
+        "Q_ef81d2ee-8273-4bdd-ad46-0d236ca520c8"
+      ],
+      "Exercise2": [
+        "Q_f3a78090-0f52-462c-953e-09877b21be34",
+        "Q_91812695-83c9-42a2-8398-351c057e554d",
+        "Q_10bcc627-cd66-4dfe-aaee-52288724c4b2"
+      ]
+    }, {
+      "Content": [
+        "Q_6e88cefb-5d67-4f52-bc67-43918dec0838"
+      ],
+      "Objective": [],
+      "Analysis": [],
+      "Explain": [
+        "Q_091939bc-f1c4-4422-a1ab-0e7a1f9f5807"
+      ],
+      "Exercise1": [
+        "Q_62c7a320-cd77-4b81-83d6-e09fb25c81dc",
+        "Q_b3763a81-6ebd-45aa-ba3b-8776d9b899f7",
+        "Q_06b8ae33-3b27-4caf-9415-e1da552914ef"
+      ],
+      "Exercise2": [
+        "Q_532fa36e-27a6-489f-a443-5cdf5a92f888",
+        "Q_99e2bde6-82a3-4e7d-9649-8fd8b04cf150",
+        "Q_f89e388f-4e6c-4bdc-99d3-281db445d8df"
+      ]
+    }, {
+      "Content": [
+        "Q_1943f9e1-3651-4f8a-930d-eaa94f050be6"
+      ],
+      "Objective": [],
+      "Analysis": [],
+      "Explain": [
+        "Q_1d8bb596-9824-4562-a429-0a233c60e66a"
+      ],
+      "Exercise1": [
+        "Q_decf281a-bd8b-49f9-a50c-a7ddf2fe5f27",
+        "Q_530cc8cc-fe70-48f9-92e1-7de04274257f",
+        "Q_0c9f0d8e-4f22-498d-aa95-3ee85e3b0435"
+      ],
+      "Exercise2": [
+        "Q_3fba940a-2f3e-4069-995f-0d7be0cbdb33",
+        "Q_f3847300-c5b9-41a3-b5e5-bf8cc33b1451",
+        "Q_df1da922-eaef-4307-87dc-2bb423e756b9"
+      ]
+    }, {
+      "Content": [
+        "Q_951b39f0-f9f2-4427-92b0-2913d7668603"
+      ],
+      "Objective": [],
+      "Analysis": [],
+      "Explain": [
+        "Q_d8990cc2-4bd1-4c13-afce-17c7a461c88b"
+      ],
+      "Exercise1": [
+        "Q_6417029d-95fe-4f55-887b-633e264db602",
+        "Q_a69a834c-cd84-4868-9a0c-07317bca2236",
+        "Q_a7ec7af9-f3f5-4a43-a495-b7f97cbb604e",
+        "Q_b33cf681-9019-4ca2-b93b-8ba2afc8502c"
+      ],
+      "Exercise2": [
+        "Q_9897a803-34ea-4204-98d7-ed6c387c369b",
+        "Q_9dfb6d05-9e14-44eb-947b-8484681c5749",
+        "Q_ead8b374-3fef-479e-b2a9-c494f4b31f2b"
+      ]
+    }]
+  }
+}

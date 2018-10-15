@@ -1,0 +1,14 @@
+﻿{
+  "topic": "",
+  "content": "（1）、  如果将往东走5步，记作+5，则-3的意义是（　　）",
+  "selectoptions": [
+    "向东3步",
+    "向西3步",
+    "向北3步",
+    "向南3步"
+  ],
+  "answer": "B。",
+  "analysis": "",
+  "knowledge": "<B>正数和负数的意义</B>",
+  "subquestions": []
+}

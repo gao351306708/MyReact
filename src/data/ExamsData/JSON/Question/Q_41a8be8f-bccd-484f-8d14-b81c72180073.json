@@ -1,0 +1,14 @@
+﻿{
+  "topic": "",
+  "content": "（2）、     若实数<i>a</i>、<i>b</i>满足<i>a </i>+ <i>b </i>= 0，且<i>a </i>&lt; <i>b</i>，则一次函数<i>y </i>= <i>ax</i>+<i>b</i>的图象不可能经过（　　）",
+  "selectoptions": [
+    "第一象限",
+    "第二象限",
+    "第三象限",
+    "第四象限"
+  ],
+  "answer": "C。",
+  "analysis": "<i>a </i>+ <i>b </i>= 0，且<i>a </i>&lt; <i>b</i>，实际上就是<i>a </i>&lt; 0，<i>b= </i>﹣<i>a </i>&gt; 0，函数图象不经过第三象限。",
+  "knowledge": "<B>一次函数的图象和性质，不等式</B>",
+  "subquestions": []
+}

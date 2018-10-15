@@ -1,0 +1,9 @@
+﻿{
+  "topic": "",
+  "content": "（2）、    已知抛物线<i>y </i>= <i>mx</i><sup>2 </sup>+ 2<i>mx </i>+ <i>m</i>-2与<i>x</i>轴有两个不同的交点。  <p>1）求<i>m</i>的取值范围； </p>",
+  "selectoptions": [],
+  "answer": "<i>m</i> &gt; 0。",
+  "analysis": "抛物线与<i>x</i>轴有两个不同的交点，则∆ &gt; 0，即(2<i>m</i>)<sup>2</sup>－4<i>m</i>(<i>m</i>-2) = 8<i>m</i> &gt; 0    <p>2）若此抛物线经过原点，经过点A（1，<i>y</i><sub>1</sub>）、B（2，<i>y</i><sub>2</sub>），C（-2，<i>y</i><sub>3</sub>），试比较<i>y</i><sub>1</sub>、<i>y</i><sub>2</sub>与<i>y</i><sub>3</sub>的大小。</p>",
+  "knowledge": "<B>二次函数，根与判别式的关系</B>",
+  "subquestions": []
+}

@@ -1,0 +1,64 @@
+.formDialog{
+    width: 350px;
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    background-color: #fafafa;
+    border: 2px solid #d3d6da;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px #d3d6da;
+    z-index: 1000;
+}
+.editorBtn{
+    text-align: right;
+}
+.editorBtn button{
+    margin: 5px 5px;
+}
+.mq-math-mode .mq-root-block{
+    padding-top: 5px !important;
+}
+.editor-container .editor-contenteditable-div .editable-range{
+ padding-top: 5px;
+}
+.formDialog .editor-default .editor-toolbar{
+    box-shadow: 1px 1px 2px #d3d6da;
+    border-top: 1px solid #d3d6da;
+}
+.formDialog .editor-container{
+    border: none;
+}
+.editorContainer{
+    position: relative;
+    width: 36px;
+    border: 1px solid #ddd;
+    /*border-radius: 6px;*/
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+    overflow: hidden;
+}
+.mathJaxClear{
+    position: relative;
+    height: 34px;
+    text-align: center;
+    line-height: 33px;
+    border: 1px solid #d4d4d4;
+    width: 36px;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+    overflow: hidden;
+    background-image: linear-gradient(to bottom, #ffffff, #f2f2f2);
+    box-shadow: 0 1px 4px rgba(204, 204, 204, 0.6);
+    background-color: #fafafa;
+    cursor: pointer;
+    z-index: 100;
+}
+.mathEditorTip{
+    position: fixed;
+    width: 74px;
+    height: 36px;
+    z-index: 1000;
+    background-color: ghostwhite;
+    border: 1px solid gainsboro;
+    border-radius: 5px;
+}

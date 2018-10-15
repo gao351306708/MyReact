@@ -1,0 +1,9 @@
+﻿{
+  "topic": "",
+  "content": "（2）、      分式方程<img width=89 height=41 src=\"data:image/jpg;base64,R0lGODlhWQApAPEAAAAAAAAAAAAAAAAAACH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH/C05FVFNDQVBFMi4wAwEBAAAh+QQBAAAAACwAAAAAWQApAAAI6gABCBxIsKDBgwgTKlzIsKHDhxAjSpxIsaLFixgzatzIsePAAB5DagwAUqRJiiBLnlz5MOVFkilVdoQJgKTEkjIr2ly5M6LKnChZ1jwIs6jMoxmBhlTK0GjPoEw3urQY1SHOk1epUsVZdavApzeFih1LtqzZs2jTinQKVq1blmzjyo17c67duWfpvt3Lt6/fv4ADW6XplvDSvl2Tko2aGGNRsYxb2mzbsLFCmpSHEq1pmbPWl1WZ7rQMVO/ml0RNa/5aGbXrhKIJJp4aVGtohEgvs66tczdu2L5xc4X42Kvn37A7C17OvHnHgAA7AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=\" style='vertical-align:middle;' v:shapes=\"_x0000_i1160\">的解是<i>x </i>=_________<u>blank</u>________________。",
+  "selectoptions": [],
+  "answer": "<sup>4</sup>/<sub>3</sub>",
+  "analysis": "整理得，<i>x</i><sup>2</sup> + 6<i>x </i>= <i>x</i><sup>2</sup>－9<i>x</i> + 20，解之即可。",
+  "knowledge": "<B>解分式方程</B>",
+  "subquestions": []
+}

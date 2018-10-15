@@ -1,0 +1,62 @@
+[
+  {
+    "code": 200,
+    "data": [
+      {
+        "questionid": "Q_a9404c48-4042-46a4-9b4c-77051497cda6",
+        "content": "<p>12.分解因式:<i>xy</i><sup>2 </sup>–9<i>x </i>=<u>     BLANK      </u>。 </p>",
+        "optionselect": "[]",
+        "answer": "<i >x</i>(<i >y</i>+3)(<i >y</i>-3)",
+        "analysis": "",
+        "difficulty": "容易",
+        "ability": "了解",
+        "questiontype": "填空题",
+        "questiontemplate": "填空题",
+        "isobjective": "客观",
+        "parentid": "",
+        "ischild": "0",
+        "knowledge": "因式分解",
+        "ordersn": null,
+        "totalpoints": 3,
+        "childs": [],
+        "childsid": [
+          {
+            "parttype": "Review",
+            "itemid": "Q_7e5e2e2f-b810-4167-9d95-d5b0986a8d3b",
+            "questionid": "Q_a9404c48-4042-46a4-9b4c-77051497cda6"
+          },
+          {
+            "parttype": "Objective",
+            "itemid": "Q_30d9d41e-ca9c-4633-be03-5879bdcb416f",
+            "questionid": "Q_a9404c48-4042-46a4-9b4c-77051497cda6"
+          },
+          {
+            "parttype": "Analysis",
+            "itemid": "Q_5e63d3d8-2a1d-4787-a256-4b368faa846d",
+            "questionid": "Q_a9404c48-4042-46a4-9b4c-77051497cda6"
+          },
+          {
+            "parttype": "Explain",
+            "itemid": "Q_15ef2ab8-5cab-4da7-a652-67ec318196c8",
+            "questionid": "Q_a9404c48-4042-46a4-9b4c-77051497cda6"
+          },
+          {
+            "parttype": "Exercise1",
+            "itemid": "Q_b56d74d9-36b4-4e3a-a026-48fb8b0cd0fa",
+            "questionid": "Q_a9404c48-4042-46a4-9b4c-77051497cda6"
+          },
+          {
+            "parttype": "Exercise1",
+            "itemid": "Q_97e2c16c-c381-4b3e-a8ed-09292b411d0c",
+            "questionid": "Q_a9404c48-4042-46a4-9b4c-77051497cda6"
+          },
+          {
+            "parttype": "Exercise1",
+            "itemid": "Q_4a8b304c-24dd-4f89-ab6d-7cb55015829c",
+            "questionid": "Q_a9404c48-4042-46a4-9b4c-77051497cda6"
+          }
+        ]
+      }
+    ]
+  }
+]

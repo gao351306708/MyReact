@@ -1,0 +1,9 @@
+﻿{
+  "topic": "",
+  "content": "（2）<B>不变量，定点问题</B>  <p>直观的判断，该定点应该与m的值<u>blank     </u>（无关/ 有关），于是，将抛物线方程变形，得<i>y </i>= <i>m</i>（<i>x</i><sup>2</sup>﹣2<i> x</i> ﹣3）+<i> x+</i>1 ，令<i>x</i><sup>2</sup>﹣2<i> x</i> ﹣3 = 0，解得<i>x </i>= <u> blank   </u>或 <u> blank    </u>，然后再验证其是否在坐标轴上，从而可知定点的坐标。</p>",
+  "selectoptions": [],
+  "answer": "无关||－1||3",
+  "analysis": "",
+  "knowledge": "",
+  "subquestions": []
+}

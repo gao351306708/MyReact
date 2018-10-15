@@ -1,0 +1,14 @@
+﻿{
+  "topic": "",
+  "content": "（2）、      从n个苹果和3个雪梨中，任选1个，若选中苹果的概率是<img width=16 height=41 src=\"data:image/jpg;base64,R0lGODlhEAApAPEAAAAAAAAAAAAAAAAAACH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH/C05FVFNDQVBFMi4wAwEBAAAh+QQBAAAAACwAAAAAEAApAAAIUwABCBxIsKDBgwgTKlxoMABDAAEiPhTocGLFhxcZZly4UWHHhB8RhmwocaLJkyhTqiwYsaXLlTBjyiTYUuPAkRRpmsTJ0qJPjD9t3vTokufMlAEBADsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==\" style='vertical-align:middle;' v:shapes=\"_x0000_i1046\">，则n的值是（　　）",
+  "selectoptions": [
+    "6",
+    "4",
+    "3",
+    "1"
+  ],
+  "answer": "C。",
+  "analysis": "<img width=39 height=41 src=\"data:image/jpg;base64,R0lGODlhJwApAPEAAAAAAAAAAAAAAAAAACH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH/C05FVFNDQVBFMi4wAwEBAAAh+QQBAAAAACwAAAAAJwApAAAIjAABCBxIsKDBgwgTKlzIsKHDhxAjSpxIsaLFixgzDgwQQCBHjQg7igR58COAjiQJmkSZcqPLlh5dskzJ0iTMmzhz6tzJ8yHHn0CDCh0atKfRo0iTkgSac+ZMik9DYoxqkKpKlDYLWn25cKTVrSezhsR6dWhCsCvPNkTLtepatTG/MmTrcevXn0rz8gwIADsAAAAAAAAAAAAAAAAAAAAAAAAAAA==\" style='vertical-align:middle;' v:shapes=\"_x0000_i1047\">=<img width=16 height=41 src=\"data:image/jpg;base64,R0lGODlhEAApAPEAAAAAAAAAAAAAAAAAACH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH/C05FVFNDQVBFMi4wAwEBAAAh+QQBAAAAACwAAAAAEAApAAAIUwABCBxIsKDBgwgTKlxoMABDAAEiPhTocGLFhxcZZly4UWHHhB8RhmwocaLJkyhTqiwYsaXLlTBjyiTYUuPAkRRpmsTJ0qJPjD9t3vTokufMlAEBADsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==\" style='vertical-align:middle;' v:shapes=\"_x0000_i1048\">，可知，n =3。",
+  "knowledge": "<B>概率公式</B>",
+  "subquestions": []
+}

@@ -1,0 +1,9 @@
+﻿{
+  "topic": "",
+  "content": "（2）<B>统计表，加权平均数</B>    <p>按加权平均数的计算法则，可知甲组平均成绩是:<img width=224 height=41 src=\"data:image/jpg;base64,R0lGODlh4AApAPEAAAAAAAAAAAAAAAAAACH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH/C05FVFNDQVBFMi4wAwEBAAAh+QQBAAAAACwAAAAA4AApAAAI/wABCBxIsKDBgwgTKlzIsKHDhxAjSpxIsaLFixgzatzIsaPHjyBDihxJsqTJkyhTogzA8mCAii8Jthw4UyZFljUF5nSIMyZNnwB2Bp3Ys2bPiEdlAhUKFKZOpU0f5oxJ9SnNmzatRlW49OrQr10lNq3qtWFYsFqzXjxrFenXt0PJtkW4Fa5cuBDvvtS7sG5BvkTn7hWckS3esS7fdpXrt+zfrGwRJybMmGHjtpEfT7aLdq5Fw1F9bq18lexlz5AdS8ar2qZps5ZTa2ZNuHTajVRXu94sGjJjv42nqrXt0qhvzMBjK6VLO6hxrzNFnzY7eLj12pw16y2KU3trg6cBy/9eyl3oYdTovTu+PR327N1/uWPHnL5uWMNx+85XXF//d/gJiUdfc2KBZ2B6A85313W1gbaeegr2x9VwqwUXIXQYmacbgfdZt+CD2C244XcONmchhR4yh+F6H+Zln3nu/fSeTsnR1d1yLjI1IowEspYUTzfi+CCPKhVp5JFIJqnkkkw26eSTUEYp5ZRUVmnllVjiVl6WXHZpUnlghinmmGSWaeaZaKap5ppsounlm3ByBGacdNZp55145qnnnnz26eeUY5F3oFhB0igkiNTtNFVof4YkXGf48aTWa9kVWBalkTZaGH/EZYoohPlVqqJ/i+2nqUbVcUbahP6pmmCAyrmAyumpcr5aXYuDjiorrjPmWmpntOJ26XGK1Whjb9D9BmuAz2mlbLCfTXodpTRuqSJ+1Dpn7WTY3gYtUfKJyql97pUIbK/cpujtt9FeuC6DB2a2Yq7Lyvsuu4HNe56JsZ4rGbmt+gsqvvnKOK2x8enYK48vKnwwwRBHLPHEFFesZ0AAOwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==\" style='vertical-align:middle;' v:shapes=\"_x0000_i1242\">83.8；乙组平均成绩是:81×40%+74×30%+85×30% = <u>  blank          </u>；丙组平均成绩是:79×<u>blank   </u>%+83×<u>  blank  </u>%+___________×30% =<u> blank           </u>。则由高到低的排名是<u>  blank   </u>&gt;丙&gt;<u>  blank    </u>。</p>  <p>显然，成绩最高的小组是<u>blank    </u>。</p>",
+  "selectoptions": [],
+  "answer": "80.1||40||30||90||83.5||甲||乙||甲",
+  "analysis": "",
+  "knowledge": "",
+  "subquestions": []
+}

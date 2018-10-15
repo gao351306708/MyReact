@@ -1,0 +1,9 @@
+﻿{
+  "topic": "",
+  "content": "（3）<B>对称性，勾股定理，等腰直角三角形</B>  题中问的是DM<sup>2</sup>，AM<sup>2</sup>，BM<sup>2</sup>三者之间的等量关系，既然是平方，可以联想到勾股定理，我们作如下的",
+  "selectoptions": [],
+  "answer": "",
+  "analysis": "  由对称性，AM=AC，BM=BC，点M的位置不固定，但始终有DM &gt; AM、BM。借鉴",
+  "knowledge": "",
+  "subquestions": []
+}

@@ -1,0 +1,9 @@
+﻿{
+  "topic": "",
+  "content": "（3）、   因式分解:  <p><i >  a</i><sup>3</sup><i>b</i>－<i >ab</i><sup>3</sup>=<u> blank         </u>；<i >x</i><sup>3</sup>－<i >y</i><sup>3</sup>=<u>  blank        </u>；</p>  <p><i> </i><i>x</i><sup>n+1</sup>-2<i>x</i><sup>n</sup>+<i>x</i><sup>n -1</sup>=<u>__ blank __   ____</u>；<i> a</i><sup>2</sup>－<i>bc </i>+ <i>ab</i>－<i>ac</i>=<u>  blank        </u>。</p>",
+  "selectoptions": [],
+  "answer": "<i>ab</i>(<i>a </i>+ <i>b</i>) (<i>a</i>－<i>b</i>) || (<i>x</i>－<i>y</i>) (<i>x</i><sup>2</sup><i>+xy</i>+ <i>y</i><sup>2</sup>) || <i>x</i><sup>n -1</sup> (<i>x</i>－ 1) <sup>2</sup>|| (<i>a </i>+ <i>b</i>) (<i>a</i>－<i>c</i>)。",
+  "analysis": "",
+  "knowledge": "<B>因式分解</B>",
+  "subquestions": []
+}

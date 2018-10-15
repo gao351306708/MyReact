@@ -1,0 +1,14 @@
+﻿{
+  "topic": "",
+  "content": "10、（3分）定义运算:<i>a</i>*<i>b</i> = <i>a</i> (1﹣<i>b</i>)。若<i>a</i>，<i>b</i>是方程<i>x</i><sup>2</sup>﹣<i>x</i>+ <img width=16 height=41 src=\"data:image/jpg;base64,R0lGODlhEAApAPEAAAAAAAAAAAAAAAAAACH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH/C05FVFNDQVBFMi4wAwEBAAAh+QQBAAAAACwAAAAAEAApAAAIVgABCBxIsKDBgwgTKlxoMABDAAEiPhTocGLFhxcZZly4UWHHhB8RhmwocaLJkyhTqiwYsaXLlTBjyjw4kmXNgQ5vUoSocadHnD+BgnRZsqdFkzpnpgwIADsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==\" style='vertical-align:middle;' v:shapes=\"_x0000_i1127\"><i>m</i>=0（<i>m</i> &lt; 0）的两根，则<i>b</i>*<i>b</i>﹣<i>a</i>*<i>a</i>的值为（　　）",
+  "selectoptions": [
+    "0",
+    "1",
+    "2",
+    "与<i>m</i>有关"
+  ],
+  "answer": "A。",
+  "analysis": "",
+  "knowledge": "<B>定义新运算，一元二次方程</B>",
+  "subquestions": []
+}

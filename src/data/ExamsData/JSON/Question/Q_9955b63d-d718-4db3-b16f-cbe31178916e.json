@@ -1,0 +1,9 @@
+﻿{
+  "topic": "",
+  "content": "（2）、    因式分解:  <p><i>  a</i><sup>2 </sup>–4<i>b</i><sup>2</sup>=________________；<i >m</i><sup>2</sup>－2<i >mn</i>＋<i >n</i><sup>2</sup>=<u>___ blank _   ____</u>；</p>  <p><i >  x</i><sup>2</sup>－3<i >xy</i>－10<i >y</i><sup>2 </sup>=<u>___ blank _   ____</u>；<i >x</i><sup>2</sup>－3<i >xy</i>－4<i >y</i><sup>2 </sup>=<u>   blank       </u>。</p>",
+  "selectoptions": [],
+  "answer": "(<i>a </i>+ 2<i>b</i>) (<i>a</i>－2<i>b</i>) || (<i>m</i>－ <i>n</i>) <sup>2 </sup>|| (<i>x </i>+ 2<i>y</i>) (<i>x</i>－5<i>y</i>) || (<i>x </i>+ <i>y</i>) (<i>x</i>－4<i>y</i>)",
+  "analysis": "",
+  "knowledge": "<B>因式分解</B><B>—</B><B>平方差公式，完全平方公式，十字相乘法</B>",
+  "subquestions": []
+}

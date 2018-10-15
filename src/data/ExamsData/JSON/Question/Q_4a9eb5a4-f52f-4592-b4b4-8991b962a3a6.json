@@ -1,0 +1,14 @@
+﻿{
+  "topic": "",
+  "content": "（2）、     定义新运算“※”，规则:<i>a</i>※<i>b</i>=<i>ab</i>-<i>a</i>-<i>b</i>，如1※2=1×2-1-2=-1，若<i>x</i><sup>2</sup>+<i>x</i>-1=0的两根为<i>x</i><sub>1</sub>，<i>x</i><sub>2</sub>，则<i>x</i><sub>1</sub>※<i>x</i><sub>2</sub>的值为（    ）",
+  "selectoptions": [
+    "0",
+    "1",
+    "2",
+    "4"
+  ],
+  "answer": "A。",
+  "analysis": "<i>x</i><sup>2</sup>+<i>x</i>-1=0的两根为<i>x</i><sub>1</sub>，<i>x</i><sub>2</sub>，所以<i>x</i><sub>1</sub>+<i> x</i><sub>2 </sub>= －1，<i>x</i><sub>1</sub><i> x</i><sub>2 </sub>= －1，  <p>所以，<i>x</i><sub>1</sub>※<i>x</i><sub>2</sub>=<i> x</i><sub>1</sub><i> x</i><sub>2</sub>－（<i>x</i><sub>1</sub>+<i> x</i><sub>2</sub>）= 0，。</p>",
+  "knowledge": "<B>定义新运算，一元二次方程</B>",
+  "subquestions": []
+}

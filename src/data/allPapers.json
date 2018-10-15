@@ -1,0 +1,25 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "examid": "a635f4e3-3e24-48a4-91c7-938468e01fe9",
+      "exampaper": "2017广州中考真题",
+      "year": "2017",
+      "district": "",
+      "subjectid": "数学",
+      "sectionid": "初中",
+      "gradeid": "初三",
+      "examtype": "真题"
+    },
+    {
+      "examid": "6df1e798-91f7-470f-9bc2-6f9c52763f02",
+      "exampaper": "2017广州中考真题第三版",
+      "year": "2017",
+      "district": "",
+      "subjectid": "数学",
+      "sectionid": "初中",
+      "gradeid": "初三",
+      "examtype": "真题"
+    }
+  ]
+}

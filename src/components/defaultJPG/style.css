@@ -1,0 +1,14 @@
+.nothispart{
+    width: 180px;
+    height: 60px;
+    line-height: 60px;
+    margin: 0 auto;
+    /*background-color: gray;*/
+    /*color: white;*/
+    font-size: 30px;
+    text-align: center;
+    /*box-shadow: -1px 2px 11px #333333;*/
+    border-radius: 20px;
+    opacity: 0.6;
+    margin-top: 15%;
+}

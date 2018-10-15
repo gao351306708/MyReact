@@ -1,0 +1,333 @@
+.TeacherMain{
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+.TeacherMain #header-home{
+    height: 80px;
+    min-height: 72px;
+    padding: 0 48px;
+    margin: 0px;
+    width: 100%;
+    z-index: 999;
+    background-color: #1093f3;
+    color: #fff;
+    border-bottom: 1px solid transparent;
+    transition: border .5s cubic-bezier(0.455, 0.03, 0.515, 0.955), background .5s cubic-bezier(0.455, 0.03, 0.515, 0.955);
+}
+.TeacherMain .menu-css{
+    border-width: 2px;
+    border-style: solid;
+    border-color: darkgray;
+    background-color: white !important;
+}
+.TeacherMain .menu-css .ant-menu-submenu-title{
+    background-color: #1dc6ce;
+}
+.header2{
+    position: fixed;
+    height: 64px;
+    padding: 0 48px;
+    margin: 0px;
+    width: 100%;
+    z-index: 999;
+    background: #1093f3;
+    color: #fff;
+    border-bottom: 1px solid transparent;
+    transition: border .5s cubic-bezier(0.455, 0.03, 0.515, 0.955), background .5s cubic-bezier(0.455, 0.03, 0.515, 0.955);
+}
+.box-align-center {
+    align-items: center;
+}
+.justify-center {
+    justify-content: center;
+}
+.flex-box{
+    display: flex;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.width-max-xxlarge {
+    max-width: 1600px;
+}
+.width-min-xxlarge {
+    min-width: 450px;
+}
+.color-white{
+    color: #ffffff !important;
+}
+.position-relative{
+    position: relative;
+}
+.full-width{
+    width: 100%;
+}
+.logolay{
+    position: relative;
+    width: 120px;
+    float: left;
+    height: auto;
+}
+.logolay .logo{
+    position: relative;
+    overflow: hidden;
+    background: url("/public/images/uu14.png") no-repeat center center;
+    width: 120px;
+    background-size: cover;
+}
+.header-check-btn{
+    position: absolute;
+    right: 10px;
+    bottom: 15px;
+}
+.mainWapper{
+    position: relative;
+    top: 64px;
+    background: transparent;
+    width: auto;
+    margin: 0;
+    border-radius: 0;
+    padding: 0;
+    min-height: 500px;
+}
+.banner-wapper1{
+    position: relative;
+    overflow: hidden;
+    background: url("/public/images/banner1.jpg") center center / cover no-repeat;
+    background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+}
+.banner-wapper1 .content{
+    position: absolute;
+    width: 100%;
+    padding: 50px;
+    top: 30%;
+    color: #fff;
+    text-align: center;
+}
+.banner-wapper1 .content p{
+    text-transform: capitalize;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+.banner-wapper2{
+    position: relative;
+    min-height: 800px;
+    overflow: hidden;
+    background: url("/public/images/teacher_bg.jpg") center center / cover no-repeat;
+    background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+}
+.teacherFormLogin{
+    position: absolute;
+    top:30%;
+    left: 0;
+    right:0;
+    margin: 0 auto;
+    background-color: white;
+    opacity: 0.85;
+    width: 500px;
+    height: 180px;
+}
+.TeacherMain .ant-menu-sub.ant-menu-inline > .ant-menu-item{
+    line-height: 22px;
+    height: 22px;
+}
+.PaperList{
+    padding: 20px 30px;
+    height:100%;
+    overflow-y: auto;
+}
+.PaperList .listitem{
+    border: 1px solid darkgray;
+    border-radius: 5px;
+    margin: 10px 0;
+}
+.PaperList .listitem .one{
+    padding: 5px 20px;
+}
+.PaperList .listitem .two{
+    border-top: 1px solid darkgray;
+    height: 32px;
+    line-height: 32px;
+    padding-left: 20px;
+}
+.PaperList .listitem .two span{
+    margin: 15px;
+}
+.mask3{
+    position: fixed;
+    z-index: 100;
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;
+    overflow-y: auto;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    background-color: white;
+    border: 20px solid;
+}
+.paperDetail .math-question-content{
+    padding: 10px 50px;
+    margin-bottom: 160px;
+}
+.paperDetail .math-question-content header{
+    display: flex;
+}
+.paperDetail .math-question-content header .title{
+    width: 100%;
+    height: 55px;
+    line-height: 55px;
+    font-size: 22px;
+    text-align: center;
+}
+.paperDetail .math-question-content header .exit{
+    position: absolute;
+    right: 20px;
+    top: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+.paperDetail .math-question-content .pagination_css{
+    display: flex;
+    height: 45px;
+    margin: 10px 0;
+    line-height: 40px;
+    text-align: center;
+}
+.paperDetail .math-question-content center hr{
+    border: 1px solid gainsboro;
+}
+.paperDetail .pagination_all{
+    display: flex;
+    width: 100%;
+    padding: 12px 15px;
+}
+.paperDetail .pagination_all .pagination {
+    margin: 0;
+}
+.paperDetail .pagination_content{
+    position: relative;
+    width: 100%;
+}
+.paperDetail .pagination_content .pagination_before{
+    position: relative;
+}
+.paperDetail .pagination_content .pagination_before .pagination{
+    margin: 8px 0 !important;
+}
+.paperDetail .QtxtContent_main_title{
+    border-bottom: 1px dashed;
+    padding-bottom: 5px;
+}
+.paperDetail .exit button{
+    margin: 5px 10px;
+}
+.paperDetail .QtxtContent_main_title_left{
+    font-size: 16px;
+    font-weight: 600;
+}
+.paperDetail .div_input{
+    position: relative;
+    display: inline-flex;
+    text-align: center;
+    min-width: 50px;
+    border-bottom: 1px solid black;
+}
+.ant-modal-close-x {
+    width: 34px;
+    height: 34px;
+    line-height: 34px;
+}
+.ant-modal{
+    width: 700px !important;
+}
+.paperDetail .teacherMark{
+    position: fixed;
+    display:inline-flex;
+    justifyContent:center;
+    padding: 10px 10px;
+    border: 2px dashed;
+    background-color: beige;
+    z-index: 1000;
+    bottom: 20px;
+    width: 800px;
+    height: 160px;
+}
+.paperDetail .teacherMark .makescore{
+    width: 60px;
+}
+.paperDetail .teacherMark .makecontent{
+     width: 470px;
+     height: 105px;
+ }
+.paperDetail .teacherMark .makecontent textarea{
+    resize: none;
+    overflow-y: scroll;
+    width: 100%;
+    height: 110px !important;
+}
+.paperDetail .teacherMark .uploadcontent{
+    width: 250px;
+    height: 140px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+.paperDetail .teacherMark .submit{
+    width: 60px;
+    margin-top: 100px;
+}
+.paperDetail .markscore{
+    width:50px;
+    display:inline;
+    margin:0 5px
+}
+.paperDetail .studentAnwser{
+    font-size: 14px;
+    font-weight: 600;
+}
+.paperDetail .studentAnwser .studentimg{
+    position: relative;
+    margin-left: 20px;
+    padding: 5px;
+}
+.paperDetail .studentAnwser .studentimg .chakan{
+    position: absolute;
+    cursor: pointer;
+    border: 1px solid;
+    border-radius: 2px;
+}
+.noData{
+    font-size: 25px;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 20px;
+}
+.childContent{
+    padding: 10px 5px;
+    border-top: 1px dashed;
+}
+.childContent .erveryQuestion{
+    margin: 5px;
+    padding: 5px 10px;
+    min-height: 70px;
+    border: 1px solid #ded7d7f2;
+}
+.childContent .ant-collapse{
+    background-color: #dfe6ecd1;
+}
+.pigaiTips{
+    margin-top: -17px;
+    float: right;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 16px;
+    color: #e8461f;
+}
+.childContent .erveryQuestion .pigaiTips:hover{
+    background-color: #cae6e6;
+}

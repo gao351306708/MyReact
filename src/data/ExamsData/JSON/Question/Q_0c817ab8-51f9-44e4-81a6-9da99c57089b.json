@@ -1,0 +1,14 @@
+﻿{
+  "topic": "",
+  "content": "（2）、     下列计算正确的是（　　）",
+  "selectoptions": [
+    "2<i>a </i>+ 3<i>b </i>= 5<i>ab</i>",
+    "(<i>x</i>+2)<sup>2 </sup>= <i>x</i><sup>2 </sup>+ 4",
+    "(<i>ab</i><sup>3</sup>)<sup>2</sup>=<i>ab</i><sup>6</sup>",
+    "(-1)<sup>0</sup>=1"
+  ],
+  "answer": "D",
+  "analysis": "(<i>x</i>+2)<sup>2 </sup>= <i>x</i><sup>2 </sup>+2<i>x</i> + 4，(<i>ab</i><sup>3</sup>)<sup>2 </sup>=<i>a</i><sup>2</sup><i>b</i><sup>6</sup>。",
+  "knowledge": "<B>代数式的运算，幂的乘方，积的乘方</B>",
+  "subquestions": []
+}

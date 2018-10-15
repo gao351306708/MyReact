@@ -1,0 +1,95 @@
+/*公用css*/
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none !important;
+  margin: 0;
+}
+.mainBackgroundColor{
+  background-color: #bd9260 !important;
+}
+.center{
+  text-align: center !important;
+}
+.displayflex{
+  display: flex;
+}
+.displaynone{
+  display: none;
+}
+.floatR{
+  float: right;
+}
+.floatL{
+  float: left;
+}
+.input_blank{
+  border: 0px;
+  border-bottom: 1px solid #333;
+  text-align: center;
+}
+.widthPrecent5{
+  width: 5%;
+}
+.widthPrecent7{
+  width: 7%;
+}
+.padding10{
+  padding: 10px !important;
+}
+.padding20{
+  padding: 20px !important;
+}
+.padding5{
+  padding: 5px !important;
+}
+.padding0{
+  padding: 0px !important;
+}
+.margin0{
+  margin: 0px !important;
+}
+.margint5{
+  margin-top: 5px !important;
+}
+.margint10{
+  margin-top: 10px !important;
+}
+.margint15{
+  margin-top: 15px !important;
+}
+.margint20{
+   margin-top: 20px !important;
+ }
+.marginl5{
+  margin-left: 5px !important;
+}
+.marginl10{
+  margin-left: 10px !important;
+}
+.marginl15{
+  margin-left: 15px !important;
+}
+.marginl20{
+  margin-left: 20px !important;
+}
+.marginr5{
+  margin-right: 5px !important;
+}
+.marginr10{
+  margin-right: 10px !important;
+}
+.marginr15{
+  margin-right: 15px !important;
+}
+.marginr20{
+  margin-right: 20px !important;
+}
+.treeNodeUnselectable {
+  -webkit-user-select: none;
+  -moz-user-select:none;
+  -o-user-select:none;
+  -ms-user-select:none;
+}
+.color-red{
+  color: red;
+}

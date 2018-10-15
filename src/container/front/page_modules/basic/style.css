@@ -1,0 +1,117 @@
+.collectAll{
+    padding:10px;
+}
+.collectAll .collectAll_question{
+    margin: 5px 0;
+}
+.basic_All_css{
+    padding: 20px;
+}
+.user_head{
+    position: absolute;
+    right: 50px;
+    width: 125px;
+    height: 130px;
+}
+.user_head .head_btn{
+    width: 100%;
+    margin-top: 10px;
+}
+.user_head .head_btn button{
+    margin-left: 5px;
+}
+.user_head img{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    border-radius: 60px;
+}
+.fileinput-button {
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+}
+.fileinput-button input{
+    position:absolute;
+    right: 0px;
+    top: 0px;
+    opacity: 0;
+    width: 50px;
+    height: 30px;
+    -ms-filter: 'alpha(opacity=0)';
+    font-size: 200px;
+}
+.myExamPaper{
+    position: relative;
+    padding:26px;
+}
+.myExamPaper .exampaperList{
+    display: inline-flex;
+    width: 100%;
+    margin: 6px 0;
+    padding: 12px 10px;
+    border: 1px solid #bfbbbb;
+}
+.myExamPaper .exampaperList .itemtitle{
+    width: 40%;
+}
+.myExamPaper .exampaperList .itemstatus{
+    text-align: right;
+    width: 60%;
+}
+.myExamPaper .exampaperList .itemstatus .status-span{
+    margin-right: 25px;
+}
+.myExamPaper .searchLine{
+    position: relative;
+    width: 100%;
+}
+.myExamPaper .searchLine .searchKey{
+    float: left;
+    height: 40px;
+    line-height: 40px;
+}
+.noDatalist{
+    text-align: center;
+    font-size: 26px;
+    margin-top: 20px;
+}
+.global-search-wrapper {
+    padding-right: 50px;
+}
+
+.global-search {
+    width: 100%;
+}
+
+.global-search.ant-select-auto-complete .ant-select-selection--single {
+    margin-right: -46px;
+}
+
+.global-search.ant-select-auto-complete .ant-input-affix-wrapper .ant-input:not(:last-child) {
+    padding-right: 62px;
+}
+
+.global-search.ant-select-auto-complete .ant-input-affix-wrapper .ant-input-suffix {
+    right: 0;
+}
+
+.global-search.ant-select-auto-complete .ant-input-affix-wrapper .ant-input-suffix button {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.global-search-item-count {
+    position: absolute;
+    right: 16px;
+}
+.examPaperScore{
+    position: absolute;
+    top: 30px;
+    right: 18%;
+    font-size: 25px;
+    color: red;
+    font-family: monospace;
+    font-style: italic;
+    text-decoration: underline double;
+}

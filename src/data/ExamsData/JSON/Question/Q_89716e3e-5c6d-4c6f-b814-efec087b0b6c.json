@@ -1,0 +1,9 @@
+﻿{
+  "topic": "",
+  "content": "（2）、     一次演讲比赛，评委将从演讲内容、演讲能力、演讲效果三个方面为选手打分，各项成绩均按百分制，然后再按演讲内容:演讲能力:演讲效果= 5:4:1的比例计算选手的综合成绩（百分制）。进入决赛的前两名选手的单项成绩如下表所示:  <div align=center>  <table Table border=1 cellspacing=0 cellpadding=0  >  <tr>   <td width=100 valign=top >   <p  align=center >选手</p>   </td>   <td width=108 valign=top >   <p  align=center >演讲内容</p>   </td>   <td width=104 valign=top >   <p  align=center >演讲能力</p>   </td>   <td width=104 valign=top >   <p  align=center >演讲效果</p>   </td>  </tr>  <tr>   <td width=100 valign=top >   <p  align=center >A</p>   </td>   <td width=108 valign=top >   <p  align=center >85</p>   </td>   <td width=104 valign=top >   <p  align=center >95</p>   </td>   <td width=104 valign=top >   <p  align=center >95</p>   </td>  </tr>  <tr >   <td width=100 valign=top >   <p  align=center >B</p>   </td>   <td width=108 valign=top >   <p  align=center >95</p>   </td>   <td width=104 valign=top >   <p  align=center >85</p>   </td>   <td width=104 valign=top >   <p  align=center >95</p>   </td>  </tr> </table>  </div>    <p>请决出两人的名次。</p>",
+  "selectoptions": [],
+  "answer": "甲第一名，乙第二名。",
+  "analysis": "计算知，甲的最后得分是90分，乙的最后得分是91分。",
+  "knowledge": "<B>统计表，加权平均数</B>",
+  "subquestions": []
+}

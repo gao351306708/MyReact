@@ -1,0 +1,54 @@
+{
+  "ExamInfoID":"123456",
+  "UserID":"IDIIL0000001",
+  "ExamPaperID":"a635f4e3-3e24-48a4-91c7-938468e01fe9",
+  "StartDate":"",
+  "FinishDate":"",
+  "UpdateDate":"",
+  "SpendTime":10,
+  "ExamType":"二测",
+  "Score":"80",
+  "ExamResult":"",
+  "DoExamInfo":[
+    {
+      "QuesID": "9b15fd31-259c-46a8-8243-5c6876ebf0a9",
+      "QuesType":  "选择题",
+      "Contents": [
+        {
+          "Contents": [
+            "1"
+          ],
+          "url":"",
+          "IsTrue": 0,
+          "scroe":5
+        }
+      ]
+    },{
+      "QuesID": "be0df4d2-8330-4b2b-9ab8-b1b83fdd3d0b",
+      "QuesType":  "填空题",
+      "Contents": [
+        {
+          "Contents": [
+            "1"
+          ],
+          "url":"",
+          "IsTrue": 0,
+          "scroe":5
+        }
+      ]
+    },{
+      "QuesID": "be0df4d2-8330-4b2b-9ab8-b1b83fdd3d0b",
+      "QuesType":  "简答题",
+      "Contents": [
+        {
+          "Contents": [
+            "1"
+          ],
+          "url":"",
+          "IsTrue": 0,
+          "scroe":5
+        }
+      ]
+    }
+  ]
+}

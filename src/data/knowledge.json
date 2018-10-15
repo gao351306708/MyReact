@@ -1,0 +1,916 @@
+[{
+    "knowledgeid": "A-8b6315f6-f8a5-4222-acaf-03c6d9967905",
+    "knowledge": "第一章 数与式",
+    "parentid": "",
+    "knowledgetype": "知识点",
+    "subjectid": "数学",
+    "sectionid": "初中",
+    "ordersn": 1,
+    "child": [
+      {
+        "knowledgeid": "B-2c5c81dd-f584-4529-b8f0-70295b5f1a2a",
+        "knowledge": "第一讲 有理数",
+        "parentid": "A-8b6315f6-f8a5-4222-acaf-03c6d9967905",
+        "knowledgetype": "知识点",
+        "subjectid": "数学",
+        "sectionid": "初中",
+        "ordersn": 2,
+        "child": [
+          {
+            "knowledgeid": "C-37f5785a-8c91-47a6-b5fc-e89162753e74",
+            "knowledge": "1．正数和负数",
+            "parentid": "B-2c5c81dd-f584-4529-b8f0-70295b5f1a2a",
+            "knowledgetype": "知识点",
+            "subjectid": "数学",
+            "sectionid": "初中",
+            "ordersn": 1,
+            "child": [
+              {
+                "knowledgeid": "D-de9cd287-bf41-45a2-8b99-4917ddbe637e",
+                "knowledge": "正数和负数",
+                "parentid": "C-37f5785a-8c91-47a6-b5fc-e89162753e74",
+                "knowledgetype": "知识点",
+                "subjectid": "数学",
+                "sectionid": "初中",
+                "ordersn": 1,
+                "child": []
+              }
+            ]
+          },
+          {
+            "knowledgeid": "C-43432b94-d1ec-4ae8-a18b-9203a5b60ee6",
+            "knowledge": "第二讲 无理数与实数",
+            "parentid": "B-2c5c81dd-f584-4529-b8f0-70295b5f1a2a",
+            "knowledgetype": "知识点",
+            "subjectid": "数学",
+            "sectionid": "初中",
+            "ordersn": 1,
+            "child": [
+              {
+                "knowledgeid": "D-7941dabb-9389-44b3-af33-c8cae7a57197",
+                "knowledge": "倒数",
+                "parentid": "C-43432b94-d1ec-4ae8-a18b-9203a5b60ee6",
+                "knowledgetype": "知识点",
+                "subjectid": "数学",
+                "sectionid": "初中",
+                "ordersn": 1,
+                "child": []
+              }
+            ]
+          },
+          {
+            "knowledgeid": "C-62057074-5011-4258-9d2e-afa68d2b498b",
+            "knowledge": "第三讲 整式",
+            "parentid": "B-2c5c81dd-f584-4529-b8f0-70295b5f1a2a",
+            "knowledgetype": "知识点",
+            "subjectid": "数学",
+            "sectionid": "初中",
+            "ordersn": 1,
+            "child": [
+              {
+                "knowledgeid": "D-00e4495c-dd3e-4866-83ed-d118654b4bdf",
+                "knowledge": "有理数",
+                "parentid": "C-62057074-5011-4258-9d2e-afa68d2b498b",
+                "knowledgetype": "知识点",
+                "subjectid": "数学",
+                "sectionid": "初中",
+                "ordersn": 1,
+                "child": []
+              }
+            ]
+          },
+          {
+            "knowledgeid": "C-b4ddcbd0-05b3-4423-8dd8-73d2596b3f29",
+            "knowledge": "第四讲 分式",
+            "parentid": "B-2c5c81dd-f584-4529-b8f0-70295b5f1a2a",
+            "knowledgetype": "知识点",
+            "subjectid": "数学",
+            "sectionid": "初中",
+            "ordersn": 1,
+            "child": [
+              {
+                "knowledgeid": "D-5a481d12-a73a-4d7d-95bb-85d4458117e3",
+                "knowledge": "数轴",
+                "parentid": "C-b4ddcbd0-05b3-4423-8dd8-73d2596b3f29",
+                "knowledgetype": "知识点",
+                "subjectid": "数学",
+                "sectionid": "初中",
+                "ordersn": 1,
+                "child": []
+              }
+            ]
+          },
+          {
+            "knowledgeid": "C-22d02bfa-dede-496c-8614-755c0918eb0d",
+            "knowledge": "第五讲 二次根式",
+            "parentid": "B-2c5c81dd-f584-4529-b8f0-70295b5f1a2a",
+            "knowledgetype": "知识点",
+            "subjectid": "数学",
+            "sectionid": "初中",
+            "ordersn": 5,
+            "child": [
+              {
+                "knowledgeid": "D-dfd6af0e-dcaa-4a93-9178-954a7e304789",
+                "knowledge": "相反数",
+                "parentid": "C-22d02bfa-dede-496c-8614-755c0918eb0d",
+                "knowledgetype": "知识点",
+                "subjectid": "数学",
+                "sectionid": "初中",
+                "ordersn": 1,
+                "child": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "knowledgeid": "B-b124169f-58a7-404a-8d18-61438ceb9290",
+        "knowledge": "第二讲 无理数与实数",
+        "parentid": "A-8b6315f6-f8a5-4222-acaf-03c6d9967905",
+        "knowledgetype": "知识点",
+        "subjectid": "数学",
+        "sectionid": "初中",
+        "ordersn": 3,
+        "child": [
+          {
+            "knowledgeid": "C-796d71c7-2ee1-4287-826f-10ddbe23169d",
+            "knowledge": "1．有理数比大小",
+            "parentid": "B-b124169f-58a7-404a-8d18-61438ceb9290",
+            "knowledgetype": "知识点",
+            "subjectid": "数学",
+            "sectionid": "初中",
+            "ordersn": 1,
+            "child": [
+              {
+                "knowledgeid": "D-0d6b66da-c39d-4ffe-8a5c-2ba2d1e82590",
+                "knowledge": "有理数的大小比较",
+                "parentid": "C-796d71c7-2ee1-4287-826f-10ddbe23169d",
+                "knowledgetype": "知识点",
+                "subjectid": "数学",
+                "sectionid": "初中",
+                "ordersn": 1,
+                "child": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "knowledgeid": "B-8e5811b5-d4b9-484a-a64e-8b980fff093c",
+        "knowledge": "第三讲 整式",
+        "parentid": "A-8b6315f6-f8a5-4222-acaf-03c6d9967905",
+        "knowledgetype": "知识点",
+        "subjectid": "数学",
+        "sectionid": "初中",
+        "ordersn": 4,
+        "child": [
+          {
+            "knowledgeid": "C-c4ae2f07-0688-45e6-a236-907e71396d29",
+            "knowledge": "1．有理数的加减法",
+            "parentid": "B-8e5811b5-d4b9-484a-a64e-8b980fff093c",
+            "knowledgetype": "知识点",
+            "subjectid": "数学",
+            "sectionid": "初中",
+            "ordersn": 1,
+            "child": [
+              {
+                "knowledgeid": "D-1e00db77-ac40-4049-95e0-bc5e77b866ad",
+                "knowledge": "有理数的加法",
+                "parentid": "C-c4ae2f07-0688-45e6-a236-907e71396d29",
+                "knowledgetype": "知识点",
+                "subjectid": "数学",
+                "sectionid": "初中",
+                "ordersn": 1,
+                "child": []
+              },
+              {
+                "knowledgeid": "D-577f2bb7-68e9-4043-a200-f014ce4c80ce",
+                "knowledge": "有理数的减法",
+                "parentid": "C-c4ae2f07-0688-45e6-a236-907e71396d29",
+                "knowledgetype": "知识点",
+                "subjectid": "数学",
+                "sectionid": "初中",
+                "ordersn": 2,
+                "child": []
+              }
+            ]
+          },
+          {
+            "knowledgeid": "C-17fd8151-d8a8-4ffa-aa1f-f7418c479f51",
+            "knowledge": "2．有理数的乘除法",
+            "parentid": "B-8e5811b5-d4b9-484a-a64e-8b980fff093c",
+            "knowledgetype": "知识点",
+            "subjectid": "数学",
+            "sectionid": "初中",
+            "ordersn": 2,
+            "child": [
+              {
+                "knowledgeid": "D-0b94df7e-5f9c-4569-abb5-0571ee3a9280",
+                "knowledge": "有理数的乘法",
+                "parentid": "C-17fd8151-d8a8-4ffa-aa1f-f7418c479f51",
+                "knowledgetype": "知识点",
+                "subjectid": "数学",
+                "sectionid": "初中",
+                "ordersn": 1,
+                "child": []
+              },
+              {
+                "knowledgeid": "D-b095f677-7070-4036-8ce0-32990ade330b",
+                "knowledge": "有理数的除法",
+                "parentid": "C-17fd8151-d8a8-4ffa-aa1f-f7418c479f51",
+                "knowledgetype": "知识点",
+                "subjectid": "数学",
+                "sectionid": "初中",
+                "ordersn": 2,
+                "child": []
+              }
+            ]
+          },
+          {
+            "knowledgeid": "C-e0f67566-b571-444b-94b3-6fd31accfa53",
+            "knowledge": "3．有理数的乘方",
+            "parentid": "B-8e5811b5-d4b9-484a-a64e-8b980fff093c",
+            "knowledgetype": "知识点",
+            "subjectid": "数学",
+            "sectionid": "初中",
+            "ordersn": 3,
+            "child": [
+              {
+                "knowledgeid": "D-4fa1fac7-fb1d-40de-a1eb-4de1ce5224f5",
+                "knowledge": "有理数的乘方",
+                "parentid": "C-e0f67566-b571-444b-94b3-6fd31accfa53",
+                "knowledgetype": "知识点",
+                "subjectid": "数学",
+                "sectionid": "初中",
+                "ordersn": 1,
+                "child": []
+              },
+              {
+                "knowledgeid": "D-6dd5b678-27f1-45ec-a26d-c32c291173a9",
+                "knowledge": "整数指数幂",
+                "parentid": "C-e0f67566-b571-444b-94b3-6fd31accfa53",
+                "knowledgetype": "知识点",
+                "subjectid": "数学",
+                "sectionid": "初中",
+                "ordersn": 2,
+                "child": []
+              }
+            ]
+          },
+          {
+            "knowledgeid": "C-57ce5560-efb2-43da-9d43-6ad8e9060ffa",
+            "knowledge": "4．有理数的混合运算",
+            "parentid": "B-8e5811b5-d4b9-484a-a64e-8b980fff093c",
+            "knowledgetype": "知识点",
+            "subjectid": "数学",
+            "sectionid": "初中",
+            "ordersn": 4,
+            "child": [
+              {
+                "knowledgeid": "D-c7d34484-f9eb-43e1-927b-339b9ca89a0e",
+                "knowledge": "有理数的混合运算",
+                "parentid": "C-57ce5560-efb2-43da-9d43-6ad8e9060ffa",
+                "knowledgetype": "知识点",
+                "subjectid": "数学",
+                "sectionid": "初中",
+                "ordersn": 1,
+                "child": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "knowledgeid": "B-65ae3642-3685-4267-9a59-7ad268cf3bb9",
+        "knowledge": "第四讲 分式",
+        "parentid": "A-8b6315f6-f8a5-4222-acaf-03c6d9967905",
+        "knowledgetype": "知识点",
+        "subjectid": "数学",
+        "sectionid": "初中",
+        "ordersn": 5,
+        "child": [
+          {
+            "knowledgeid": "C-556dac50-a762-43b6-b655-5cc4f221cf70",
+            "knowledge": "1．科学记数法",
+            "parentid": "B-65ae3642-3685-4267-9a59-7ad268cf3bb9",
+            "knowledgetype": "知识点",
+            "subjectid": "数学",
+            "sectionid": "初中",
+            "ordersn": 1,
+            "child": [
+              {
+                "knowledgeid": "D-d95079b9-09cf-452c-a582-d83c4d4a6ba6",
+                "knowledge": "科学记数法",
+                "parentid": "C-556dac50-a762-43b6-b655-5cc4f221cf70",
+                "knowledgetype": "知识点",
+                "subjectid": "数学",
+                "sectionid": "初中",
+                "ordersn": 1,
+                "child": []
+              }
+            ]
+          },
+          {
+            "knowledgeid": "C-9acfdc71-9648-45be-8a27-c1aac89fadd5",
+            "knowledge": "2．近似数与有效数字",
+            "parentid": "B-65ae3642-3685-4267-9a59-7ad268cf3bb9",
+            "knowledgetype": "知识点",
+            "subjectid": "数学",
+            "sectionid": "初中",
+            "ordersn": 2,
+            "child": [
+              {
+                "knowledgeid": "D-d69af8e4-cbb4-4ff2-b8d1-0b1f1a91f717",
+                "knowledge": "近似数与有效数字",
+                "parentid": "C-9acfdc71-9648-45be-8a27-c1aac89fadd5",
+                "knowledgetype": "知识点",
+                "subjectid": "数学",
+                "sectionid": "初中",
+                "ordersn": 1,
+                "child": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "knowledgeid": "A-97a62f06-6847-4bba-8f1c-b5568df6f9cb",
+    "knowledge": "第二章 方程与不等式",
+    "parentid": "",
+    "knowledgetype": null,
+    "subjectid": null,
+    "sectionid": null,
+    "ordersn": 2,
+    "child": [
+      {
+        "knowledgeid": "B-63505cac-4c84-489a-a20f-bb2471ba2425",
+        "knowledge": "第一讲 一次方程及方程组",
+        "parentid": "A-97a62f06-6847-4bba-8f1c-b5568df6f9cb",
+        "knowledgetype": "知识点",
+        "subjectid": "数学",
+        "sectionid": "初中",
+        "ordersn": 2,
+        "child": [
+          {
+            "knowledgeid": "C-04303578-dd7e-42f4-92c3-e307fa934fec",
+            "knowledge": "1．单项式",
+            "parentid": "B-63505cac-4c84-489a-a20f-bb2471ba2425",
+            "knowledgetype": "知识点",
+            "subjectid": "数学",
+            "sectionid": "初中",
+            "ordersn": 1,
+            "child": [
+              {
+                "knowledgeid": "D-77811153-5f4f-45e5-9857-9113364ee147",
+                "knowledge": "单项式",
+                "parentid": "C-04303578-dd7e-42f4-92c3-e307fa934fec",
+                "knowledgetype": "知识点",
+                "subjectid": "数学",
+                "sectionid": "初中",
+                "ordersn": 1,
+                "child": []
+              }
+            ]
+          },
+          {
+            "knowledgeid": "C-b6b69c8f-fa98-4695-8a65-d598bcd6ced4",
+            "knowledge": "2．多项式",
+            "parentid": "B-63505cac-4c84-489a-a20f-bb2471ba2425",
+            "knowledgetype": "知识点",
+            "subjectid": "数学",
+            "sectionid": "初中",
+            "ordersn": 2,
+            "child": [
+              {
+                "knowledgeid": "D-ac4f2231-4ac9-46fc-a65b-73994c2eda5f",
+                "knowledge": "多项式",
+                "parentid": "C-b6b69c8f-fa98-4695-8a65-d598bcd6ced4",
+                "knowledgetype": "知识点",
+                "subjectid": "数学",
+                "sectionid": "初中",
+                "ordersn": 1,
+                "child": []
+              }
+            ]
+          },
+          {
+            "knowledgeid": "C-25be5c93-a98f-405c-b622-492eefa86f0a",
+            "knowledge": "3．整式",
+            "parentid": "B-63505cac-4c84-489a-a20f-bb2471ba2425",
+            "knowledgetype": "知识点",
+            "subjectid": "数学",
+            "sectionid": "初中",
+            "ordersn": 3,
+            "child": [
+              {
+                "knowledgeid": "D-1b4b630f-0bde-4bdb-9ee8-2d95e91d1216",
+                "knowledge": "整式",
+                "parentid": "C-25be5c93-a98f-405c-b622-492eefa86f0a",
+                "knowledgetype": "知识点",
+                "subjectid": "数学",
+                "sectionid": "初中",
+                "ordersn": 1,
+                "child": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "knowledgeid": "B-50a07778-c785-4647-b20a-9af0244eeab5",
+        "knowledge": "第二讲 分式方程",
+        "parentid": "A-97a62f06-6847-4bba-8f1c-b5568df6f9cb",
+        "knowledgetype": "知识点",
+        "subjectid": "数学",
+        "sectionid": "初中",
+        "ordersn": 3,
+        "child": [
+          {
+            "knowledgeid": "C-60719480-145b-4408-ac06-30dd37050a58",
+            "knowledge": "1．同类项",
+            "parentid": "B-50a07778-c785-4647-b20a-9af0244eeab5",
+            "knowledgetype": "知识点",
+            "subjectid": "数学",
+            "sectionid": "初中",
+            "ordersn": 1,
+            "child": [
+              {
+                "knowledgeid": "D-0d0b5fc3-0384-4cc4-b13b-c67b5a72e33b",
+                "knowledge": "同类项",
+                "parentid": "C-60719480-145b-4408-ac06-30dd37050a58",
+                "knowledgetype": "知识点",
+                "subjectid": "数学",
+                "sectionid": "初中",
+                "ordersn": 1,
+                "child": []
+              }
+            ]
+          },
+          {
+            "knowledgeid": "C-bdfaa520-f1ee-46b6-b843-c61e87812c9f",
+            "knowledge": "2．整式的加减",
+            "parentid": "B-50a07778-c785-4647-b20a-9af0244eeab5",
+            "knowledgetype": "知识点",
+            "subjectid": "数学",
+            "sectionid": "初中",
+            "ordersn": 2,
+            "child": [
+              {
+                "knowledgeid": "D-81bff283-2a9a-41e4-8a6a-0bc9535154af",
+                "knowledge": "整式的加减",
+                "parentid": "C-bdfaa520-f1ee-46b6-b843-c61e87812c9f",
+                "knowledgetype": "知识点",
+                "subjectid": "数学",
+                "sectionid": "初中",
+                "ordersn": 1,
+                "child": []
+              }
+            ]
+          },
+          {
+            "knowledgeid": "C-793fe045-a761-4243-b1c5-c4e03a15b0e7",
+            "knowledge": "3．整式化简求值",
+            "parentid": "B-50a07778-c785-4647-b20a-9af0244eeab5",
+            "knowledgetype": "知识点",
+            "subjectid": "数学",
+            "sectionid": "初中",
+            "ordersn": 3,
+            "child": [
+              {
+                "knowledgeid": "D-81de6661-419b-4d71-a4b4-dafba7332213",
+                "knowledge": "整式化简求值",
+                "parentid": "C-793fe045-a761-4243-b1c5-c4e03a15b0e7",
+                "knowledgetype": "知识点",
+                "subjectid": "数学",
+                "sectionid": "初中",
+                "ordersn": 1,
+                "child": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "knowledgeid": "A-6802ccb5-19f6-4ba8-9562-4b50a3c99e94",
+    "knowledge": "第三章 函数",
+    "parentid": "",
+    "knowledgetype": null,
+    "subjectid": null,
+    "sectionid": null,
+    "ordersn": 3,
+    "child": [
+      {
+        "knowledgeid": "X-b03afced-d5fd-4aec-accb-9516a402ccac",
+        "knowledge": "第一讲 平面直角坐标系及函数基础知识",
+        "parentid": "A-6802ccb5-19f6-4ba8-9562-4b50a3c99e94",
+        "knowledgetype": "知识点",
+        "subjectid": "数学",
+        "sectionid": "初中",
+        "ordersn": 1,
+        "child": []
+      },
+      {
+        "knowledgeid": "B-33ab5165-1eba-45b3-860d-2a44e54922d3",
+        "knowledge": "第二讲 正比例函数和一次函数",
+        "parentid": "A-6802ccb5-19f6-4ba8-9562-4b50a3c99e94",
+        "knowledgetype": "知识点",
+        "subjectid": "数学",
+        "sectionid": "初中",
+        "ordersn": 2,
+        "child": [
+          {
+            "knowledgeid": "C-caa694ba-f560-44c8-8fe0-0b64c8ca4e14",
+            "knowledge": "1．等式与方程",
+            "parentid": "B-33ab5165-1eba-45b3-860d-2a44e54922d3",
+            "knowledgetype": "知识点",
+            "subjectid": "数学",
+            "sectionid": "初中",
+            "ordersn": 1,
+            "child": [
+              {
+                "knowledgeid": "D-4f8bcb07-476d-452b-839b-fcd7ff78e1a7",
+                "knowledge": "等式与方程",
+                "parentid": "C-caa694ba-f560-44c8-8fe0-0b64c8ca4e14",
+                "knowledgetype": "知识点",
+                "subjectid": "数学",
+                "sectionid": "初中",
+                "ordersn": 1,
+                "child": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "knowledgeid": "B-6df3efe3-f49e-4738-bef2-8f1476965e26",
+        "knowledge": "第三讲 反比例函数",
+        "parentid": "A-6802ccb5-19f6-4ba8-9562-4b50a3c99e94",
+        "knowledgetype": "知识点",
+        "subjectid": "数学",
+        "sectionid": "初中",
+        "ordersn": 3,
+        "child": [
+          {
+            "knowledgeid": "C-b579c91f-9fb0-4ffa-96df-561ac78bf5d7",
+            "knowledge": "1．一元一次方程及其解法",
+            "parentid": "B-6df3efe3-f49e-4738-bef2-8f1476965e26",
+            "knowledgetype": "知识点",
+            "subjectid": "数学",
+            "sectionid": "初中",
+            "ordersn": 1,
+            "child": [
+              {
+                "knowledgeid": "D-4b5dbdd0-28ff-43f4-aad5-84f57dbbed44",
+                "knowledge": "一元一次方程及其解法",
+                "parentid": "C-b579c91f-9fb0-4ffa-96df-561ac78bf5d7",
+                "knowledgetype": "知识点",
+                "subjectid": "数学",
+                "sectionid": "初中",
+                "ordersn": 1,
+                "child": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "knowledgeid": "B-5a759a05-f8ba-4978-b79f-20193a3f5cc5",
+        "knowledge": "第四讲 二次函数",
+        "parentid": "A-6802ccb5-19f6-4ba8-9562-4b50a3c99e94",
+        "knowledgetype": "知识点",
+        "subjectid": "数学",
+        "sectionid": "初中",
+        "ordersn": 4,
+        "child": [
+          {
+            "knowledgeid": "C-48e2b2f4-b87a-4fda-8be8-769ac57fffd2",
+            "knowledge": "1．列一元一次方程解应用题",
+            "parentid": "B-5a759a05-f8ba-4978-b79f-20193a3f5cc5",
+            "knowledgetype": "知识点",
+            "subjectid": "数学",
+            "sectionid": "初中",
+            "ordersn": 1,
+            "child": [
+              {
+                "knowledgeid": "D-7c9f9bba-112b-4de1-a5dc-0ab724d1e72c",
+                "knowledge": "列一元一次方程解应用题",
+                "parentid": "C-48e2b2f4-b87a-4fda-8be8-769ac57fffd2",
+                "knowledgetype": "知识点",
+                "subjectid": "数学",
+                "sectionid": "初中",
+                "ordersn": 1,
+                "child": []
+              }
+            ]
+          },
+          {
+            "knowledgeid": "C-c8fea91a-1a70-4661-aae6-386ee8242f27",
+            "knowledge": "2．列方程解应用题的常用公式",
+            "parentid": "B-5a759a05-f8ba-4978-b79f-20193a3f5cc5",
+            "knowledgetype": "知识点",
+            "subjectid": "数学",
+            "sectionid": "初中",
+            "ordersn": 2,
+            "child": [
+              {
+                "knowledgeid": "D-388eaf87-3d65-417b-82f3-e4d3f8642869",
+                "knowledge": "行程问题",
+                "parentid": "C-c8fea91a-1a70-4661-aae6-386ee8242f27",
+                "knowledgetype": "知识点",
+                "subjectid": "数学",
+                "sectionid": "初中",
+                "ordersn": 1,
+                "child": []
+              },
+              {
+                "knowledgeid": "D-fe177621-e789-425c-ace1-d32da9101190",
+                "knowledge": "工程问题",
+                "parentid": "C-c8fea91a-1a70-4661-aae6-386ee8242f27",
+                "knowledgetype": "知识点",
+                "subjectid": "数学",
+                "sectionid": "初中",
+                "ordersn": 2,
+                "child": []
+              },
+              {
+                "knowledgeid": "D-8580b7f7-b735-418f-b5d1-b5a40cbd49dc",
+                "knowledge": "比率问题",
+                "parentid": "C-c8fea91a-1a70-4661-aae6-386ee8242f27",
+                "knowledgetype": "知识点",
+                "subjectid": "数学",
+                "sectionid": "初中",
+                "ordersn": 3,
+                "child": []
+              },
+              {
+                "knowledgeid": "D-a5303175-2363-4151-97d6-825f6559332a",
+                "knowledge": "顺流、逆流问题",
+                "parentid": "C-c8fea91a-1a70-4661-aae6-386ee8242f27",
+                "knowledgetype": "知识点",
+                "subjectid": "数学",
+                "sectionid": "初中",
+                "ordersn": 4,
+                "child": []
+              },
+              {
+                "knowledgeid": "D-c674d703-9142-489c-871e-6de5b33f8e39",
+                "knowledge": "利润问题",
+                "parentid": "C-c8fea91a-1a70-4661-aae6-386ee8242f27",
+                "knowledgetype": "知识点",
+                "subjectid": "数学",
+                "sectionid": "初中",
+                "ordersn": 5,
+                "child": []
+              },
+              {
+                "knowledgeid": "D-10927cea-3c92-4ade-b1dc-a762804eeccd",
+                "knowledge": "周长、面积、体积问题",
+                "parentid": "C-c8fea91a-1a70-4661-aae6-386ee8242f27",
+                "knowledgetype": "知识点",
+                "subjectid": "数学",
+                "sectionid": "初中",
+                "ordersn": 6,
+                "child": []
+              },
+              {
+                "knowledgeid": "D-f49e1cb5-cc4c-4292-8571-a2ef7afa3c6b",
+                "knowledge": "利率、利息问题",
+                "parentid": "C-c8fea91a-1a70-4661-aae6-386ee8242f27",
+                "knowledgetype": "知识点",
+                "subjectid": "数学",
+                "sectionid": "初中",
+                "ordersn": 7,
+                "child": []
+              },
+              {
+                "knowledgeid": "D-2ad89b65-a856-4e8b-badd-4521dd93317d",
+                "knowledge": "数字、日期问题",
+                "parentid": "C-c8fea91a-1a70-4661-aae6-386ee8242f27",
+                "knowledgetype": "知识点",
+                "subjectid": "数学",
+                "sectionid": "初中",
+                "ordersn": 8,
+                "child": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "knowledgeid": "A-0f460542-568a-4ddd-b82c-6c2bb07f570a",
+    "knowledge": "第四章 图形的性质",
+    "parentid": "",
+    "knowledgetype": null,
+    "subjectid": null,
+    "sectionid": null,
+    "ordersn": 4,
+    "child": [
+      {
+        "knowledgeid": "X-6888cdb5-f8d8-4fc2-b393-977b54b840ba",
+        "knowledge": "第一讲 尺规作图、命题与证明",
+        "parentid": "A-0f460542-568a-4ddd-b82c-6c2bb07f570a",
+        "knowledgetype": "知识点",
+        "subjectid": "数学",
+        "sectionid": "初中",
+        "ordersn": 1,
+        "child": []
+      },
+      {
+        "knowledgeid": "B-633243d3-7010-464f-8723-eabde6d9876c",
+        "knowledge": "第二讲 三角形及全等三角形",
+        "parentid": "A-0f460542-568a-4ddd-b82c-6c2bb07f570a",
+        "knowledgetype": "知识点",
+        "subjectid": "数学",
+        "sectionid": "初中",
+        "ordersn": 2,
+        "child": [
+          {
+            "knowledgeid": "C-ef7ea0c4-6fa2-45bc-a411-53ee95fc5cb5",
+            "knowledge": "1．几何图形",
+            "parentid": "B-633243d3-7010-464f-8723-eabde6d9876c",
+            "knowledgetype": "知识点",
+            "subjectid": "数学",
+            "sectionid": "初中",
+            "ordersn": 1,
+            "child": [
+              {
+                "knowledgeid": "D-31e94315-691b-4b99-9368-1f7a79171484",
+                "knowledge": "几何图形",
+                "parentid": "C-ef7ea0c4-6fa2-45bc-a411-53ee95fc5cb5",
+                "knowledgetype": "知识点",
+                "subjectid": "数学",
+                "sectionid": "初中",
+                "ordersn": 1,
+                "child": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "knowledgeid": "A-5ec9f33f-79be-4adb-aa43-12a75b9c0431",
+    "knowledge": "第五章 图形的变化",
+    "parentid": "",
+    "knowledgetype": "知识点",
+    "subjectid": "数学",
+    "sectionid": "初中",
+    "ordersn": 5,
+    "child": [
+      {
+        "knowledgeid": "X-0fef99a4-d484-4870-8f34-6b0375f43f3e",
+        "knowledge": "第一讲 图形的平移、对称和旋转",
+        "parentid": "A-5ec9f33f-79be-4adb-aa43-12a75b9c0431",
+        "knowledgetype": "知识点",
+        "subjectid": "数学",
+        "sectionid": "初中",
+        "ordersn": 1,
+        "child": []
+      },
+      {
+        "knowledgeid": "B-0f1dfacf-78cd-4d02-85dc-e15d1ad262e7",
+        "knowledge": "第二讲 图形的相似",
+        "parentid": "A-5ec9f33f-79be-4adb-aa43-12a75b9c0431",
+        "knowledgetype": "知识点",
+        "subjectid": "数学",
+        "sectionid": "初中",
+        "ordersn": 2,
+        "child": [
+          {
+            "knowledgeid": "C-353aec3d-bb5e-4338-b90e-b8fc16fa23bb",
+            "knowledge": "1．相交线、邻补角、对顶角",
+            "parentid": "B-0f1dfacf-78cd-4d02-85dc-e15d1ad262e7",
+            "knowledgetype": "知识点",
+            "subjectid": "数学",
+            "sectionid": "初中",
+            "ordersn": 1,
+            "child": [
+              {
+                "knowledgeid": "D-20be7396-ca1a-4acb-b627-848547148ea9",
+                "knowledge": "邻补角、对顶角",
+                "parentid": "C-353aec3d-bb5e-4338-b90e-b8fc16fa23bb",
+                "knowledgetype": "知识点",
+                "subjectid": "数学",
+                "sectionid": "初中",
+                "ordersn": 1,
+                "child": []
+              }
+            ]
+          },
+          {
+            "knowledgeid": "C-bd6496e3-3ed5-4348-b411-91e2db98cbbb",
+            "knowledge": "2．垂线",
+            "parentid": "B-0f1dfacf-78cd-4d02-85dc-e15d1ad262e7",
+            "knowledgetype": "知识点",
+            "subjectid": "数学",
+            "sectionid": "初中",
+            "ordersn": 2,
+            "child": [
+              {
+                "knowledgeid": "D-39fcf9b0-d23d-4dfd-b4fc-a83ec98e744a",
+                "knowledge": "垂线",
+                "parentid": "C-bd6496e3-3ed5-4348-b411-91e2db98cbbb",
+                "knowledgetype": "知识点",
+                "subjectid": "数学",
+                "sectionid": "初中",
+                "ordersn": 1,
+                "child": []
+              }
+            ]
+          },
+          {
+            "knowledgeid": "C-0cd26afe-f1a0-4bd8-9ffa-2f57af355327",
+            "knowledge": "3．同位角、内错角、同旁内角",
+            "parentid": "B-0f1dfacf-78cd-4d02-85dc-e15d1ad262e7",
+            "knowledgetype": "知识点",
+            "subjectid": "数学",
+            "sectionid": "初中",
+            "ordersn": 3,
+            "child": [
+              {
+                "knowledgeid": "D-c230f166-9630-4c48-ba2d-c6d88912035a",
+                "knowledge": "同位角、内错角、同旁内角",
+                "parentid": "C-0cd26afe-f1a0-4bd8-9ffa-2f57af355327",
+                "knowledgetype": "知识点",
+                "subjectid": "数学",
+                "sectionid": "初中",
+                "ordersn": 1,
+                "child": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "knowledgeid": "B-c9235e42-521d-45f6-9a97-907357ee0c34",
+        "knowledge": "第三讲 投影与视图",
+        "parentid": "A-5ec9f33f-79be-4adb-aa43-12a75b9c0431",
+        "knowledgetype": "知识点",
+        "subjectid": "数学",
+        "sectionid": "初中",
+        "ordersn": 3,
+        "child": [
+          {
+            "knowledgeid": "C-c28aed78-dd16-46f0-84c9-0cb07482e0d1",
+            "knowledge": "1．平行线及其判定",
+            "parentid": "B-c9235e42-521d-45f6-9a97-907357ee0c34",
+            "knowledgetype": "知识点",
+            "subjectid": "数学",
+            "sectionid": "初中",
+            "ordersn": 1,
+            "child": [
+              {
+                "knowledgeid": "D-c40a5763-85a0-42da-8b86-49e3ed7aed91",
+                "knowledge": "平行线",
+                "parentid": "C-c28aed78-dd16-46f0-84c9-0cb07482e0d1",
+                "knowledgetype": "知识点",
+                "subjectid": "数学",
+                "sectionid": "初中",
+                "ordersn": 1,
+                "child": []
+              },
+              {
+                "knowledgeid": "D-97f92190-4680-42d5-844f-65a458a09ce5",
+                "knowledge": "平行线的判定",
+                "parentid": "C-c28aed78-dd16-46f0-84c9-0cb07482e0d1",
+                "knowledgetype": "知识点",
+                "subjectid": "数学",
+                "sectionid": "初中",
+                "ordersn": 2,
+                "child": []
+              }
+            ]
+          },
+          {
+            "knowledgeid": "C-d85c2ab7-3f6e-4b50-8763-a5a2c630b414",
+            "knowledge": "2．平行线的性质",
+            "parentid": "B-c9235e42-521d-45f6-9a97-907357ee0c34",
+            "knowledgetype": "知识点",
+            "subjectid": "数学",
+            "sectionid": "初中",
+            "ordersn": 2,
+            "child": [
+              {
+                "knowledgeid": "D-40269468-5a11-421d-a899-7d5da5f7c8c7",
+                "knowledge": "平行线的性质",
+                "parentid": "C-d85c2ab7-3f6e-4b50-8763-a5a2c630b414",
+                "knowledgetype": "知识点",
+                "subjectid": "数学",
+                "sectionid": "初中",
+                "ordersn": 1,
+                "child": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

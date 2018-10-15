@@ -1,0 +1,9 @@
+﻿{
+  "topic": "",
+  "content": "（2）、     如图，二次函数<i>y </i>= -<i>mx</i><sup>2 </sup>+ 4<i>m</i>的顶点坐标为（0，2），矩形ABCD的顶点B.C在<i>x</i>轴上，",
+  "selectoptions": [],
+  "answer": "<i>y </i>= -<i><img width=16 height=41 src=\"data:image/jpg;base64,R0lGODlhEAApAPEAAAAAAAAAAAAAAAAAACH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH/C05FVFNDQVBFMi4wAwEBAAAh+QQBAAAAACwAAAAAEAApAAAIUwABCBxIsKDBgwgTKlxoMABDAAEiPhTocGLFhxcZZly4UWHHhB8RhmwocaLJkyhTqiwYsaXLlTBjyiTYUuPAkRRpmsTJ0qJPjD9t3vTokufMlAEBADsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==\" style='vertical-align:middle;' v:shapes=\"_x0000_i1394\">x</i><sup>2 </sup>+2。",
+  "analysis": "将顶点坐标（0，2）代入二次函数解析式，得4<i>m</i> = 2，所以<i>m</i> = <i><img width=16 height=41 src=\"data:image/jpg;base64,R0lGODlhEAApAPEAAAAAAAAAAAAAAAAAACH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH/C05FVFNDQVBFMi4wAwEBAAAh+QQBAAAAACwAAAAAEAApAAAIUwABCBxIsKDBgwgTKlxoMABDAAEiPhTocGLFhxcZZly4UWHHhB8RhmwocaLJkyhTqiwYsaXLlTBjyiTYUuPAkRRpmsTJ0qJPjD9t3vTokufMlAEBADsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==\" style='vertical-align:middle;' v:shapes=\"_x0000_i1395\"></i>，从而<i>y </i>= -<i><img width=16 height=41 src=\"data:image/jpg;base64,R0lGODlhEAApAPEAAAAAAAAAAAAAAAAAACH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH/C05FVFNDQVBFMi4wAwEBAAAh+QQBAAAAACwAAAAAEAApAAAIUwABCBxIsKDBgwgTKlxoMABDAAEiPhTocGLFhxcZZly4UWHHhB8RhmwocaLJkyhTqiwYsaXLlTBjyiTYUuPAkRRpmsTJ0qJPjD9t3vTokufMlAEBADsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==\" style='vertical-align:middle;' v:shapes=\"_x0000_i1396\">x</i><sup>2 </sup>+2。    <p>2）设点A的坐标为（<i>x</i>，<i>y</i>），试求矩形ABCD的周长P关于自变量<i>x</i>的函数解析式，并求出自变量<i>x</i>的取值范围；</p>",
+  "knowledge": "<B>待定系数法求二次函数解析式</B>",
+  "subquestions": []
+}

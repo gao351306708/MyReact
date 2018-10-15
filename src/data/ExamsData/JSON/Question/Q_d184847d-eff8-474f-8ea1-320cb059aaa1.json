@@ -1,0 +1,14 @@
+﻿{
+  "topic": "",
+  "content": "（3）、     对于二次函数<i>y </i>= <i>x</i><sup>2</sup>-2<i>mx</i>-3，有下列说法:  <p>① 它的图象与<i>x</i>轴有两个公共点；</p>  <p>② 若当<i>x </i>≤ 1时<i>y</i>随<i>x</i>的增大而减小，则<i>m </i>= 1；</p>  <p>③ 若将它的图象向左平移3个单位后过原点，则<i>m </i>= -1；</p>  <p>④ 若当<i>x </i>= 4时的函数值与<i>x </i>=2时的函数值相等，则当<i>x </i>= 6时的函数值为-3。</p>  <p>其中正确的说法是（　　）</p>",
+  "selectoptions": [
+    "①③",
+    "①④",
+    "②③",
+    "②④"
+  ],
+  "answer": "B。",
+  "analysis": "∆ = 4<i>m</i><sup>2</sup>－4×（－3）= 4<i>m</i><sup>2 </sup>+ 12 &gt; 0，二次函数与<i>x</i>轴有两个公共点，选项①正确；当<i>x </i>≤ 1时<i>y</i>随<i>x</i>的增大而减小，可得对称轴 ≥ 1，即<img width=28 height=41 src=\"data:image/jpg;base64,R0lGODlhHAApAPEAAAAAAAAAAAAAAAAAACH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH/C05FVFNDQVBFMi4wAwEBAAAh+QQBAAAAACwAAAAAHAApAAAIfQABCBxIsKDBgwgTKlzIsKHDhgEiPkwYYGDFiQYvCtSI8SDHjgUvSgQwciRDjhVTklx5kqBKkiJbuhQZc+FHljhvhnSZ0yJOjxGD9tyoE6TRo0iTKl06MajTp1CFMp1KtarVh1KRaiyKlSdTrh3BNv1KdqnYrj6PQr3Klm1AADsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==\" style='vertical-align:middle;' v:shapes=\"_x0000_i1126\">= <i>m</i> ≥ 1，选项②不正确；若将它的图象向左平移3个单位后过原点，则其解析式为<i>y</i> = (<i>x</i>－3)<sup>2</sup>，展开可得<i>m</i> =3，选项 ③ 不正确；当<i>x </i>= 4时的函数值与<i>x</i> = 2时的函数值相等，∴由对称性，抛物线的对称轴为<i>x</i> = <i>m</i> =3，∴抛物线解析式为<i>y</i> = <i>x</i><sup>2</sup>－6<i>x</i>－3，当<i>x</i> = 6时的函数值为－3，选项 ④正确。",
+  "knowledge": "<B>二次函数的性质</B>",
+  "subquestions": []
+}
