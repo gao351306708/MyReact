@@ -17,6 +17,3 @@ npm start
 
 ## 目录结构
 ![app_directory](./docs/1.png)![picture_detail](./docs/1.png)
-
-## 参照
-"https://github.com/Jafeney/tms" （全栈搭建）
