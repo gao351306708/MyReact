@@ -1,9 +1,0 @@
-﻿{
-  "topic": "",
-  "content": "【分析】:#在需要二测时，和题目一起出现#   <p><B>矩形的性质，对角线AC_________</B><u>blank</u><B>BD</B>  </p>    <p>由矩形的性质，对角线相等，且互相平分，则AO = BO，由题意AB= <u>  blank   </u>，则△ABO是<u>   blank    </u>三角形，从而∠ABD的度数可知。</p>",
-  "selectoptions": [],
-  "answer": "平分||AO||等边",
-  "analysis": "",
-  "knowledge": "",
-  "subquestions": []
-}

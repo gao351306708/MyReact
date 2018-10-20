@@ -62,10 +62,12 @@ class Chapter extends Component{
     };
     getKnowledgeQuestion(id){
         this.props.actions.getKnowledgeIdListWithId({
-            body:[{knowledgeId:id}],
+            //body:[{knowledgeId:id}],
+            body:{knowledgeId:id},
             success:(data)=>{
                 console.log("hahahahahhaha---222222222222222-->>>>",id,data)
-                let alldata = data[0].data;
+                //let alldata = data[0].data;
+                let alldata = data;
                 if(alldata.length>0){
                     let newdata=[];
                     for(let i in alldata){
@@ -74,7 +76,7 @@ class Chapter extends Component{
                         }
                     }
                     this.props.actions.getEveryQuestion({
-                        body:newdata,
+                        body:{},
                         success:(data)=>{
                             let newData = [];
                             for(let i in data){

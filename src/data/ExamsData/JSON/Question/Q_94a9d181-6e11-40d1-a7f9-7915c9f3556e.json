@@ -1,9 +1,0 @@
-﻿{
-  "topic": "",
-  "content": "（3）、     若点A (<i>a</i>，b) 在反比例函数<img width=43 height=41 src=\"data:image/jpg;base64,R0lGODlhKwApAPEAAAAAAAAAAAAAAAAAACH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH/C05FVFNDQVBFMi4wAwEBAAAh+QQBAAAAACwAAAAAKwApAAAIiwABCBxIsKDBgwgTKlzIsKHDhxAjSpzoMIBFihMDDNSIESJHgR87Rgwp8iHJkgxPolSociXCli4NwoxJMORMlxZz3qTJs6dPmR8v/twYtKBOnSg57sQJMuNRpAk1qnwqVGTVoTWxytS6EcBSnF+5ih1L1mdOr2FLXuWadmVbtV7HKhUrdG3Zu3gJBgQAOwAAAAAAAAAAAAAAAAAAAAAAAAAAAA==\" style='vertical-align:middle;' v:shapes=\"_x0000_i1260\">的图象上，求代数式<i>ab</i>-1的值。",
-  "selectoptions": [],
-  "answer": "1。",
-  "analysis": "将点A坐标代入反比例函数解析式，可知<i>ab</i>=2，从而<i>ab</i>-1 = 1。",
-  "knowledge": "<B>反比例函数的性质，求代数式的值</B>",
-  "subquestions": []
-}

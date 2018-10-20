@@ -1,9 +1,0 @@
-﻿{
-  "topic": "",
-  "content": "（3）、     某校举办八年级学生数学素养大赛，比赛共设四个项目:七巧板拼图，趣题巧解，数学应用，魔方复原，每个项目得分都按一定百分比折算后记入总分，下表为甲，乙，丙三位同学得分情况（单位:分）  <table Table border=1 cellspacing=0 cellpadding=0  >  <tr>   <td width=72 valign=top >   <p  align=center > </p>   </td>   <td width=112 valign=top >   <p  align=center >七巧板拼图</p>   </td>   <td width=112 valign=top >   <p  align=center >趣题巧解</p>   </td>   <td width=112 valign=top >   <p  align=center >数学应用</p>   </td>   <td width=104 valign=top >   <p  align=center >魔方复原</p>   </td>  </tr>  <tr>   <td width=72 valign=top >   <p  align=center >甲</p>   </td>   <td width=112 valign=top >   <p  align=center >66</p>   </td>   <td width=112 valign=top >   <p  align=center >89</p>   </td>   <td width=112 valign=top >   <p  align=center >86</p>   </td>   <td width=104 valign=top >   <p  align=center >68</p>   </td>  </tr>  <tr>   <td width=72 valign=top >   <p  align=center >乙</p>   </td>   <td width=112 valign=top >   <p  align=center >66</p>   </td>   <td width=112 valign=top >   <p  align=center >60</p>   </td>   <td width=112 valign=top >   <p  align=center >80</p>   </td>   <td width=104 valign=top >   <p  align=center >68</p>   </td>  </tr>  <tr >   <td width=72 valign=top >   <p  align=center >丙</p>   </td>   <td width=112 valign=top >   <p  align=center >66</p>   </td>   <td width=112 valign=top >   <p  align=center >80</p>   </td>   <td width=112 valign=top >   <p  align=center >90</p>   </td>   <td width=104 valign=top >   <p  align=center >68</p>   </td>  </tr> </table>    <p>1）比赛后，甲猜测七巧板拼图，趣题巧解，数学应用，魔方复原这四个项目得分分别按10%，40%，20%，30%折算记入总分，根据猜测，求出甲的总分； </p>",
-  "selectoptions": [],
-  "answer": "甲的总分为:66×10%+89×40%+86×20%+68×30%=79.8。    <p>2）本次大赛组委会最后决定，总分为80分以上（包含80分）的学生获一等奖，现获悉乙，丙的总分分别是70分，80分。甲的七巧板拼图、魔方复原两项得分折算后的分数和是20分，问甲能否获得这次比赛的一等奖？ </p>",
-  "analysis": "",
-  "knowledge": "<B>统计表，加权平均数</B>",
-  "subquestions": []
-}

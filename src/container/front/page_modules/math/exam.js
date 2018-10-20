@@ -31,7 +31,7 @@ class Exam extends Component{
     }
     componentDidMount(){
         this.props.actions.getAllQuestionsList({
-            body:[{id:Storage_S.getItem('userid')}],
+            body:{id:Storage_S.getItem('userid')},
             success:(data)=>{
                 console.log("getAllQuestionsList=====>>>",data)
                 this.getDataOfFirst(data)
@@ -40,7 +40,8 @@ class Exam extends Component{
         });
     };
     getDataOfFirst(items){
-        let olddata = items[0].data;
+        let olddata = items;
+        //let olddata = items[0].data;
         var len = olddata.length;
         let i;
         var dataArray = [];
@@ -49,8 +50,9 @@ class Exam extends Component{
             dataArray.push({userid:userid,id:olddata[i].examid})
         }
         this.props.actions.getFirstDataOfPaper({
-            body:dataArray,
+            body:{},
             success:(data)=>{
+                console.log("getFirstDataOfPaper=====>>>",data)
                 for(let i=0;i<data.length;i++){
                     if(data[i].data.length >0){//已经做过了一测
                         olddata[i].doneDetails =data[i];

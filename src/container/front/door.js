@@ -12,7 +12,6 @@ import { connect } from 'react-redux'
 import { push } from 'react-router-redux'
 import PureRenderMixin from '../../method_public/pure-render'
 import {handleImg} from '../../method_public/public'
-import { getHomeShowList} from '../../redux/actions/page'
 import {updateStoreHeadImg} from '../../redux/actions/public'
 import {Storage_S} from '../../config'
 
@@ -27,7 +26,6 @@ class Door extends Component {
     }
     componentDidMount(){
         let headimg = Storage_S.getItem('headimg');
-        this.props.actions.getHomeShowList({});
         this.props.actions.updateStoreHeadImg({data:headimg,clear:false})//当页面刷新store会重置，需要重新更新store
     };
     enterSystem(){
@@ -35,28 +33,6 @@ class Door extends Component {
             this.props.actions.push('home')
         }else {
             window.confirm('请先登录！')
-        }
-    }
-    _showListItem(showList){
-        let pageSize = showList.get('items').size;
-        if (pageSize > 0) {
-            const showItem = showList.get('items').map((item,index)=>{
-               let  color = {
-                   background:colorList[index]
-               }
-                return (
-                    <div key={index} className="col-sm-4">
-                        <div className="thumbnail">
-                            <img className="door_headimg" src={handleImg(item.get('headimg'))} title="头像" onError={(e)=>{e.target.src = "public/images/user_head.jpg"}}/>
-                            <div className="caption message" style={color}>
-                                <h3>{item.get('username')}</h3>
-                                <p>{item.get('phone')}</p>
-                            </div>
-                        </div>
-                    </div>
-                )
-            },this)
-            return showItem
         }
     }
     _showWapper4List(){
@@ -73,14 +49,7 @@ class Door extends Component {
         return showWapper
     }
     render() {
-        let { homeShowList,userheadimg } = this.props;
-        let error = PureRenderMixin.Compare([homeShowList]);//优化render
-        if (!error) return <div/>
-        const headerimg = (
-            <div className="floatR">
-                <img className="door-headerimg" src={handleImg(userheadimg.get('headimg'))} alt="头像"/>
-            </div>
-        );
+        let { userheadimg } = this.props;
         const login = (
             <div className="header-check-btn">
                 <Login title="登录" style="color-white" loginHandle={()=>this.setState({loginstatus:true})}></Login>
@@ -92,7 +61,7 @@ class Door extends Component {
                 <header id="header" className="mainBackgroundColor header flex-box box-align-center justify-center">
                     <div className="full-width position-relative width-max-xxlarge">
                         <div className="logolay"><a href="http://www.idiil.com.cn/index.html" ><img src="public/images/uu14.png"/></a></div>
-                        {this.state.loginstatus?headerimg:login}
+                        {this.state.loginstatus?'':login}
                     </div>
                 </header>
                 <div className="mainWapper">
@@ -147,15 +116,6 @@ class Door extends Component {
                             {this._showWapper4List()}
                         </div>
                     </section>
-                    <section className="banner-wapper5 mainBackgroundColor">
-                        <div className="content">
-                            <h2>我们的成效</h2>
-                            <div className="student-parts">
-                                {this._showListItem(homeShowList)}
-                                <div className="clearfix"></div>
-                            </div>
-                        </div>
-                    </section>
                 </div>
                 <footer>
                     <div className="container">
@@ -183,13 +143,12 @@ class Door extends Component {
 //将redux中state的对象与组件绑定起来。一一对应map对象
 function mapStateToProps(state,ownProps) {
     return {
-        homeShowList: state.homeShowList,
         userheadimg: state.userheadimg
     }
 }
 //使用bindActionCreators绑定action
 function mapDispatchToProps(dispatch) {
-    return { actions: bindActionCreators({push,getHomeShowList,updateStoreHeadImg}, dispatch) }
+    return { actions: bindActionCreators({push,updateStoreHeadImg}, dispatch) }
 }
 
 export default connect(mapStateToProps, mapDispatchToProps)(Door)

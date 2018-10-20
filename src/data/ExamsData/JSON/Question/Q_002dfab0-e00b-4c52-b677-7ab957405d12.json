@@ -1,9 +1,0 @@
-﻿{
-  "topic": "",
-  "content": "（1）、     已知<i>x</i>+<i>y </i>= 6，<i>xy </i>= 4，则<i>x</i><sup>2</sup><i>y</i>+<i>xy</i><sup>2</sup><sup> </sup>=<u>__ blank  _</u>；",
-  "selectoptions": [],
-  "answer": "24",
-  "analysis": "<i>x</i><sup>2</sup><i>y</i>+<i>xy</i><sup>2 </sup>= <i>xy</i> (<i>x</i>+<i>y</i>) = 24。",
-  "knowledge": "<B>因式分解，代数式求值</B>",
-  "subquestions": []
-}

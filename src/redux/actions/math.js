@@ -9,8 +9,8 @@ import { bodyUrlencoded } from '../../method_public/public'
 //获取所有练习试卷
 export function getAllQuestionsList(opt) {
     return (dispatch) => {
-        //const route = '../src/data/questions.json';//本地数据
-        const route = '/api/math/allPapers';
+        const route = 'src/data/allPapers.json';//本地数据
+        //const route = '/api/math/allPapers';
         const success = (data) => {
             dispatch({ type: TYPES.ALLQUESTIONSLIST_UPDATE, result: {items: data} })
             opt.success && opt.success(data)
@@ -18,40 +18,40 @@ export function getAllQuestionsList(opt) {
         //使用fetch发送数据时，headers格式如果是这种形式（默认）{"Content-Type": "application/x-www-form-urlencoded"}
         // 则body里面的参数格式应该为“a="paramsa&b=paramsb....."”
         console.log(opt.body);
-        requestSyn(route,{},dispatch,success, opt.error,
-            { method: 'POST',
+        request(route,{},dispatch,success, opt.error,
+            { method: 'GET',
                 headers: {"Content-Type": "application/x-www-form-urlencoded"},
-                body: opt.body })
+                body: bodyUrlencoded(opt.body) })
     }
 }
 //获取某套练习试卷的所有试题（即：1-25道考试题题目）
 export function getQuestionList(opt) {
     return (dispatch) => {
-        //const route = '../src/data/ExamsData/JSON/'+opt.body.param;//本地数据
-        const route = '/api/math/questionsOfPaper';
+        const route = 'src/data/getQuestionList.json';//本地数据
+        //const route = '/api/math/questionsOfPaper';
         const success = (data) => {
             dispatch({ type: TYPES.QUESTIONSLIST_UPDATE, result: {items: data} })
             opt.success && opt.success(data)
         }
-        requestSyn(route,{},dispatch,success, opt.error,
-            { method: 'POST',
+        request(route,{},dispatch,success, opt.error,
+            { method: 'GET',
                 headers: {"Content-Type": "application/x-www-form-urlencoded"},
-                body: opt.body })
+                body: bodyUrlencoded(opt.body) })
     }
 }
 //获取某个主试题的信息
 export function getQuestion(opt) {
     return (dispatch) => {
-        //const route = 'src/data/ExamsData/JSON/Question/'+opt.param;//本地数据
-        const route = '/api/math/question';
+        const route = 'src/data/question.json';//本地数据
+        //const route = '/api/math/question';
         const success = (data) => {
             dispatch({ type: TYPES.GETMAINQUESTION_UPDATA, result: {items: data} })
             opt.success && opt.success(data)
         }
-        requestSyn(route,{},dispatch,success, opt.error,
-            { method: 'POST',
+        request(route, {}, dispatch, success, opt.error,
+            { method: 'GET',
                 headers: {"Content-Type": "application/x-www-form-urlencoded"},
-                body: opt.body })
+                body: bodyUrlencoded(opt.body) })
     }
 }
 //获取某套试卷的所有关联的子题。所有！！！（子题下面的子题。。。）
@@ -67,10 +67,10 @@ export function getAllChildOfExam(opt) {
 //获取某个知识点中所有的试题的详情:
 export function getEveryQuestion(opt) {
     return (dispatch) => {
-        //const route = 'src/data/ExamsData/JSON/Question/'+opt.param;//本地数据
-        const route = '/api/math/everyQuestion';
-        requestSyn(route,{},dispatch,opt.success, opt.error,
-            { method: 'POST',
+        const route = 'src/data/questionsOfPaper.json';//本地数据
+        //const route = '/api/math/everyQuestion';
+        request(route,{},dispatch,opt.success, opt.error,
+            { method: 'GET',
                 headers: {"Content-Type": "application/x-www-form-urlencoded"},
                 body: opt.body })
     }
@@ -136,13 +136,14 @@ export function getChildQuestionsForQuestion(opt) {
 //获取一测试卷的做题详情
 export function getFirstDataOfPaper(opt) {
     return (dispatch) => {
-        const route = '/api/math/firstDataOfPaper';
+        const route = 'src/data/firstDataOfPaper.json';
+        //const route = '/api/math/firstDataOfPaper';
         const success = (data) => {
             dispatch({ type: TYPES.GETFIRSTDATAOFPAPER, result: {items: data} })
             opt.success && opt.success(data)
         }
-        requestSyn(route,{},dispatch,success, opt.error,
-            { method: 'POST',
+        request(route,{},dispatch,success, opt.error,
+            { method: 'GET',
                 headers: {"Content-Type": "application/x-www-form-urlencoded"},
                 body: opt.body })
     }
@@ -160,9 +161,10 @@ export function getSecendDataOfPaper(opt) {
 //获取章节知识点目录结构
 export function getAllKnowledgeOfChapter(opt){
     return (dispatch) => {
-        const route = '/api/math/allKnowledgeOfChapter';
+        const route = 'src/data/allKnowledgeOfChapter.json';
+        //const route = '/api/math/allKnowledgeOfChapter';
         request(route,{},dispatch,opt.success, opt.error,
-            { method: 'POST',
+            { method: 'GET',
                 headers: {"Content-Type": "application/x-www-form-urlencoded"},
                 body: (opt.body) })
     }
@@ -180,9 +182,10 @@ export function getKnowledgeIdList(opt) {
 //获取知识点对应的试题，通过Id查找
 export function getKnowledgeIdListWithId(opt) {
     return (dispatch) => {
-        const route = '/api/math/knowledgeIdListWithId';
-        requestSyn(route,{},dispatch,opt.success, opt.error,
-            { method: 'POST',
+        const route = 'src/data/getKnowledgeIdListWithId.json';
+        //const route = '/api/math/knowledgeIdListWithId';
+        request(route,{},dispatch,opt.success, opt.error,
+            { method: 'GET',
                 headers: {"Content-Type": "application/x-www-form-urlencoded"},
                 body: opt.body })
     }

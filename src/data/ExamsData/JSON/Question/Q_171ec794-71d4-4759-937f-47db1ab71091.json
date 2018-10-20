@@ -1,9 +1,0 @@
-﻿{
-  "topic": "",
-  "content": "（1）、     已知二次函数<i>y</i>=<i>x</i><sup>2</sup>-2<i>mx</i>+<i>m</i><sup>2</sup>-1（<i>m</i>≠0）的图象经过点（1，0）。  <p  align=center > </p>  <p>1）求二次函数的解析式； </p>",
-  "selectoptions": [],
-  "answer": "二次函数的解析式为<i>y </i>= <i>x</i><sup>2</sup>-4<i>x </i>+3。",
-  "analysis": "将点（1，0）的坐标代入二次函数，可得1<sup>2</sup>－2<i>m</i> +<i> m</i><sup>2</sup>-1 = 0，解之，得<i>m</i> = 2或<i>m</i> = 0（舍）。    <p>2）该抛物线与<i>y</i>轴交于点C，顶点为D，求C，D两点的坐标； </p>",
-  "knowledge": "<B>待定系数法求二次函数解析式</B>",
-  "subquestions": []
-}

@@ -1,9 +1,0 @@
-﻿{
-  "topic": "",
-  "content": "（1）、     若分式方程<img width=65 height=41 src=\"data:image/jpg;base64,R0lGODlhQQApAPEAAAAAAAAAAAAAAAAAACH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH/C05FVFNDQVBFMi4wAwEBAAAh+QQBAAAAACwAAAAAQQApAAAIswABCBxIsKDBgwgTKlzIsKHDhxAjSpxIsaLFixgzatzIcWCAjiALfgw5MYBJACcNjkR4ciVJgikPuhQpMOZLjypN6tQJE+dNmgln1uz5E6dQn0BRHg05cilKmTU/Ot2Y0iZRkS2nFt3KtavXr2CVPg2rdKfVoWLJOly51Kzbt3DfSnSp9SfcpGfVsow6Vq9Cnnn9Ch5MuLDhw4jLpk0Ms25hx48ZQ4Xst6lkj00pX97MWW9AADsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=\" style='vertical-align:middle;' v:shapes=\"_x0000_i1159\">无解，则<i>a</i>的取值是<i>a </i>= _________<u>blank</u>_____________。",
-  "selectoptions": [],
-  "answer": "0或1",
-  "analysis": "整理可得，<i>x </i>+ <i>a </i>= <i>ax</i>，即（<i>a</i>－1）<i>x </i>= <i>a</i>。   <p>当<i>a</i>－1 =0时，<i>a </i>= 1，方程无解； </p>  <p>当分母<i>x </i>= 0时方程无解，此时<i>a </i>= 0。 </p>",
-  "knowledge": "<B>分式方程的解</B>",
-  "subquestions": []
-}

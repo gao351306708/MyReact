@@ -4,7 +4,7 @@
  */
 var fs = require('fs'),path = require('path');
 var Math = require('../../database/math.db');
-var doGetAllChildOfExam = require('../mathModule/getAllChildOfExam')
+//var doGetAllChildOfExam = require('../mathModule/getAllChildOfExam')
 
 module.exports={
     init: function(app) {
@@ -28,7 +28,7 @@ module.exports={
         app.post('/math/knowledgeForQuestionInfo',this.sentKnowledgeForQuestionInfo);
         app.post('/math/everyQuestion',this.getEveryQuestion);
         app.post('/math/thematicQuestionAnswerInfo',this.setThematicQuestionAnswerInfo);
-        app.post('/math/getAllChildOfExam',doGetAllChildOfExam);
+        //app.post('/math/getAllChildOfExam',doGetAllChildOfExam);
     },
     getAllPapers: (req, res) => {
         let props = {};

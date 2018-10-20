@@ -64,7 +64,9 @@ class Question extends Component{
         this.props.actions.getQuestionList({
             body:[{id:this.state.activeId}],
             success:(data)=>{
+                console.log("getQuestionList-----==1111111111111111==--->>>>>",data)
                 let newdata = data[0];
+                //let newdata = data;
                 if(newdata.code == 200){
                     console.log("getQuestionList-----====--->>>>>",newdata.data)
                     let all_question = newdata.data;//解析JSON
@@ -95,7 +97,7 @@ class Question extends Component{
         // 返回 false 会继续停留当前页面，否则，返回一个字符串，会显示给用户，让其自己决定
         if(confirm('确认要离开？')){
             this.setState({cleartimeflag:true})
-            UE.delEditor('practiceContainer');
+            //UE.delEditor('practiceContainer');
             setTimeout(()=>{
                 return true;
             },1000)
@@ -182,8 +184,9 @@ class Question extends Component{
         )
     }
     _contentQtxt(data,index){
-        let item = (data.get('items')).get(0);
-        let items = item.get('data').get(0);
+        //let item = (data.get('items')).get(0);
+        //let items = item.get('data').get(0);
+        let items = (data.get('items')).get(0);
         let content = items.get('content');
         let questiontype = items.get('questiontemplate');
         let childs = items.get('childs');
@@ -232,7 +235,7 @@ class Question extends Component{
     }
     exitBack(){
         this.setState({cleartimeflag:true});
-        UE.delEditor('practiceContainer');
+        //UE.delEditor('practiceContainer');
         setTimeout(()=>{
             this.props.actions.goBack();
         },500)
@@ -425,6 +428,7 @@ class Question extends Component{
     render(){
         const {GetQuestion} = this.props;
         let error = PureRenderMixin.Compare([GetQuestion]);
+        console.warn("rendering GetQuestion--->",GetQuestion)
         if (!error || this.state.totalNum<1){
             return (
                 <div className="mask math-question-content">
@@ -435,7 +439,8 @@ class Question extends Component{
                 </div>
             )
         }
-        let objective = ((GetQuestion.get('items')).get(0)).get('data').get(0).get('isobjective');
+        //let objective = ((GetQuestion.get('items')).get(0)).get('data').get(0).get('isobjective');
+        let objective = ((GetQuestion.get('items')).get(0)).get('isobjective');
         let objectiveFlag = (objective== "主观") ? true:false;
         let title = (this.state.dataAll).exampaper;//试卷标题
         let cleartime = this.state.cleartimeflag;

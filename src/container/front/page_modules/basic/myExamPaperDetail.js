@@ -35,21 +35,28 @@ class PaperDetail extends Component{
     }
     componentDidMount(){
         this.props.actions.getQuestionList({
-            body:[{id:this.state.paperId}],
+            body:{id:this.state.paperId},
             success:(data)=>{
-                let all_question = data[0].data;//解析JSON
-                this.getData(all_question)
+                //this.getData(all_question)
+                console.warn('1111111111111',data)
+                console.warn(this.state.questionDetails)
+                let details = this.state.questionDetails;
+                for(let i in data){
+                    data[i].details =details[i];
+                }
+                this.setState({questions:data})
+
             },
             error:(mes)=>{
-                console.error('数据接收发生错误');
+                console.error('数据接收发生错误',mes);
             }
         })
     }
     getData(data){
         var dataArray=[];
-        for(let i=0;i<data.length;i++){
-            dataArray.push({id:data[i].questionid})
-        }
+        //for(let i=0;i<data.length;i++){
+        //    dataArray.push({id:data[i].questionid})
+        //}
         this.props.actions.getQuestion({
             body:dataArray,
             success:(data)=>{
@@ -144,11 +151,12 @@ class PaperDetail extends Component{
     }
     render(){
         let {paperAllData,questions,previewVisible, previewUrl } = this.state;
+        console.log("paperAllData-------->>>>",paperAllData)
+        console.log("questions-------->>>>",questions)
         if(questions.length<1){
             return <div/>;
         }
-        console.log("paperAllData-------->>>>",paperAllData)
-        console.log("questions-------->>>>",questions)
+
         return(
             <div>
                 <ShowMask></ShowMask>

@@ -1,9 +1,0 @@
-﻿{
-  "topic": "",
-  "content": "【提示分析】:#在需要二测时，和题目一起出现#  <p><B>垂直平分线的性质，CD = A</B><u>  blank  </u> </p>    <p>不难知道，△ABC是直角三角形。已知DE是AC的垂直平分线，则CE = AE = 4，CD =A<u> blank   </u>，且DE//BC，DE构成△ABC的中位线，于是，DE =<u>  blank    </u>，由勾股定理，AD = <u> blank    </u>，即可知CD的长（或者可由中位线的性质，AD = BD =<u>  blank    </u>）。</p>",
-  "selectoptions": [],
-  "answer": "D ||D  ||3 ||5 ||5",
-  "analysis": "",
-  "knowledge": "",
-  "subquestions": []
-}

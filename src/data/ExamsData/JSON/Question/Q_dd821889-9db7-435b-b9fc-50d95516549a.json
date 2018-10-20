@@ -1,9 +1,0 @@
-﻿{
-  "topic": "",
-  "content": "（2）、      化简求值:(2<i>x</i>+<i>y</i>)<sup>2 </sup>- <i>y</i>( <i>y </i>+ 4<i>x</i>) - 8<i>xy</i>÷(2<i>x</i>)，其中<i>x </i>= 2，<i>y </i>= -2。",
-  "selectoptions": [],
-  "answer": "12",
-  "analysis": "原式＝(4<i>x</i><sup>2</sup>+4<i>xy</i> +<i>y</i><sup>2 </sup>－ <i>y</i><sup>2</sup>－ 4<i>xy</i> － 8<i>xy</i>)÷(2<i>x</i>) = (4<i>x</i><sup>2</sup>－ 8<i>xy</i>)÷(2<i>x</i>) = 2<i>x</i>－4<i>y</i>。  <p>代入<i>x </i>，<i>y </i>的值，可得其值为12。</p>",
-  "knowledge": "<B>代数式化简求值</B>",
-  "subquestions": []
-}

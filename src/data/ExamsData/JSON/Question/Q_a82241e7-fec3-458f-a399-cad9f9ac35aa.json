@@ -1,9 +1,0 @@
-﻿{
-  "topic": "",
-  "content": "【<B>提示分析</B><B>】</B>:#在需要二测时，和题目一起出现#  <p><B></B><B>平移的性质，四边形CDEF</B><B>构成平行四边形 </B><i> </i>由平移的性质，易知四边形CDEF构成平行四边形，也即EF = CD =<u>   blank   </u>cm，CF = DE =<u>   blank   </u>cm，则BF= 5cm  ；△ABC 是等腰三角形，EF//AC，∠B=∠E<u> blank    </u>，则△BEF也是等腰三角形，BE=EF，从而可求△BEF的周长。</p>",
-  "selectoptions": [],
-  "answer": "4||7||FB。",
-  "analysis": "",
-  "knowledge": "",
-  "subquestions": []
-}

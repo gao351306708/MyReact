@@ -1,9 +1,0 @@
-﻿{
-  "topic": "",
-  "content": "【<B>提示分析</B><B>】</B>:#在需要二测时，和题目一起出现#     <p><B></B><B>正方形的性质，旋转的性质，△DHG </B><B>≌ </B><B>△DBC </B><B></B><i>  </i></p>  <p>由旋转的性质，△DHG ≌ △DBC，则△DHG是等腰直角三角形， DG = HG  = AB，∠DGH= <u>  blank   </u>°，∠DHG =<u> blank     </u>°。△HAE与△BGE均是等腰直角三角形，依此，不难知道△DAE≌ △DGE，△DHE≌ △DBE，△DAF≌ △DGF，△HAE≌ △BGE，AH.AE的长度，以及∠ADE，∠GDE，∠AFD，∠GFD的度数，至此，可一一判断原结论的正误。</p>",
-  "selectoptions": [],
-  "answer": "90 || 45",
-  "analysis": "",
-  "knowledge": "",
-  "subquestions": []
-}

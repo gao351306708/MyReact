@@ -1,9 +1,0 @@
-﻿{
-  "topic": "",
-  "content": "（2）<B>不变量，定点问题，定点必定与m</B><B>的值</B><u>blank</u><B>（无关/ </B><B>有关）</B>    <p>将抛物线方程变形，得<i>y </i>= <i>m </i>(<i>x</i><sup>2</sup>﹣2<i> x</i> ﹣3) +<i> x+</i>1 ，要求定点P的坐标，只需令<i>x</i><sup>2</sup>﹣2<i> x</i> ﹣3 = 0，解得<i>x </i>= <u> blank    </u>（舍去，因此时点在<i>x</i>轴上）或3，所以，定点P的坐标为（3，<u>blank    </u>）。</p>",
-  "selectoptions": [],
-  "answer": "无关||－1||4",
-  "analysis": "",
-  "knowledge": "",
-  "subquestions": []
-}

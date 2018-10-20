@@ -1,9 +1,0 @@
-﻿{
-  "topic": "",
-  "content": "【简解】:      <p><B></B><B>正方形的性质，旋转的性质 </B><i> </i>由旋转的性质，△DHG ≌ △DBC，则 DG = HG = BC =1，∠DGH是直角。</p>    <p>对于②，由于DA=DG，DE=DE，∠DGE=∠DAE= _________<u>blank    </u>°，由全等三角形判定定理（HL），即可判断②<u>  blank      </u>（正确/错误）； </p>  <p>对于③，由②，∠ADE=∠GDE= _________<u>blank   </u>°，且AD=AG，AF=AF，于是△DAF≌ △D<u> blank    </u>，从而，∠DGF= <u> blank     </u>°，即可判断③<u>  blank      </u>（正确/错误）；</p>  <p>对于①，由②知，AE=EG，由③知，AF=GF，且，∠AEF=∠EFA=_________<u>blank    </u>°，即可判断①<u>  blank      </u>（正确/错误）；</p>  <p>对于④，易知△HAE≌ △BGE，则BE=  <img width=25 height=23 src=\"data:image/jpg;base64,R0lGODlhGQAXAPEAAAAAAAAAAAAAAAAAACH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH/C05FVFNDQVBFMi4wAwEBAAAh+QQBAAAAACwAAAAAGQAXAAAIVgABCBxIsKDBgwgTKlzIMGGAhxAjNhQYYKLCihYPYsxocCNHghshfsQYMmPJgR4XpkRpcSXFlhovnizokuVMlg1J0oQJwKNPhg9pRqwJkijPj0iTHgwIADsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==\" style='vertical-align:middle;' v:shapes=\"_x0000_i1175\"> AE，从而，FG=AE&lt; 0.5 ，于是可判断④<u>  blank      </u>（正确/错误）。 </p>",
-  "selectoptions": [],
-  "answer": "90 || 正确|| 22.5 || GF || 45 ||正确|| 67.5 ||正确||错误",
-  "analysis": "",
-  "knowledge": "",
-  "subquestions": []
-}

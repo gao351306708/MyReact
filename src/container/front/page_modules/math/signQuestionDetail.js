@@ -27,13 +27,11 @@ class SignQuestion extends Component{
         }
     }
     componentDidMount(){
-        this.props.actions.getQuestion({body:[{id:this.state.activeId}],
+        this.props.actions.getQuestion({
+            body:{id:this.state.activeId},
             success:(data)=>{
-                if(data[0].code == 200){
-                    console.log("getQuestion===========>",data)
-                    //this.getChildData((data[0].data)[0].childsid)
-                    this.setState({dataAll:data[0].data})
-                }
+                console.log("getQuestion===========>",data)
+                this.setState({dataAll:data})
             }})
     }
     getChildData(data){

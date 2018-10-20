@@ -30,9 +30,10 @@ export function teacherRegister(opt) {
 //获取学生所有做的试卷
 export function getAllPaperOfStudent(opt){
     return (dispatch) => {
-        const route = '/api/teacher/allPaperOfStudent';//服务端数据
+        const route = 'src/data/allPaperOfStudent.json';//本地数据
+        //const route = '/api/teacher/allPaperOfStudent';//服务端数据
         request(route, {}, dispatch, opt.success, opt.error,
-            { method: 'POST',
+            { method: 'GET',
                 headers: {"Content-Type": "application/x-www-form-urlencoded"},
                 body: bodyUrlencoded(opt.body) })
     }

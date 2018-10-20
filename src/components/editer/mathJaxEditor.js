@@ -19,11 +19,11 @@ class MathJaxEditor extends Component{
     componentDidMount(){
         //编辑框
         let editorname = this.props.editorId;
-        var ue = UE.getEditor(editorname, {
-            toolbars: [['kityformula']],
-            elementPathEnabled:false,
-            wordCount:false
-        });
+        //var ue = UE.getEditor(editorname, {
+        //    toolbars: [['kityformula']],
+        //    elementPathEnabled:false,
+        //    wordCount:false
+        //});
         setTimeout(function(){
             $(".edui-editor-iframeholder").remove();
         },1000)

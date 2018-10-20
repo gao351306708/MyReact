@@ -2,8 +2,18 @@
   "code": 200,
   "data": [
     {
-      "examid": "a635f4e3-3e24-48a4-91c7-938468e01fe9",
-      "exampaper": "2017广州中考真题",
+      "examid": "fd88de3a-fada-4e4c-a228-08e631a60e92",
+      "exampaper": "2016年广州市中考真题",
+      "year": "2016",
+      "district": "",
+      "subjectid": "数学",
+      "sectionid": "初中",
+      "gradeid": "初三",
+      "examtype": "真题"
+    },
+    {
+      "examid": "81b8bb8e-a936-4fce-8b5a-cbfb6abfe15a",
+      "exampaper": "2017年广州市中考真题",
       "year": "2017",
       "district": "",
       "subjectid": "数学",
@@ -12,9 +22,89 @@
       "examtype": "真题"
     },
     {
-      "examid": "6df1e798-91f7-470f-9bc2-6f9c52763f02",
-      "exampaper": "2017广州中考真题第三版",
+      "examid": "f800c625-7ad5-47c2-8082-4715938b4f70",
+      "exampaper": "2017年广东省中考真题",
       "year": "2017",
+      "district": "",
+      "subjectid": "数学",
+      "sectionid": "初中",
+      "gradeid": "初三",
+      "examtype": "真题"
+    },
+    {
+      "examid": "4dda1f95-74ba-488b-be75-316a819455df",
+      "exampaper": "2016年广东省中考真题",
+      "year": "2016",
+      "district": "",
+      "subjectid": "数学",
+      "sectionid": "初中",
+      "gradeid": "初三",
+      "examtype": "真题"
+    },
+    {
+      "examid": "1077e6ea-e839-4dcb-9b2d-de21950fb938",
+      "exampaper": "2015年广州市中考真题",
+      "year": "2015",
+      "district": "",
+      "subjectid": "数学",
+      "sectionid": "初中",
+      "gradeid": "初三",
+      "examtype": "真题"
+    },
+    {
+      "examid": "3aac51b9-fbee-41e5-b716-7be058657ec2",
+      "exampaper": "2015年广东佛山市中考真题",
+      "year": "2015",
+      "district": "",
+      "subjectid": "数学",
+      "sectionid": "初中",
+      "gradeid": "初三",
+      "examtype": "真题"
+    },
+    {
+      "examid": "72cddde0-f81e-4387-8752-f1eb577a466d",
+      "exampaper": "2014年广州市中考真题",
+      "year": "2014",
+      "district": "",
+      "subjectid": "数学",
+      "sectionid": "初中",
+      "gradeid": "初三",
+      "examtype": "真题"
+    },
+    {
+      "examid": "53b1f27d-54f8-42c3-a86b-88c6c85ca3fa",
+      "exampaper": "2018年广东省中考试卷（作为模拟）",
+      "year": "2018",
+      "district": "",
+      "subjectid": "数学",
+      "sectionid": "初中",
+      "gradeid": "初三",
+      "examtype": "真题"
+    },
+    {
+      "examid": "e53ffadc-846e-4a47-a616-f9e6bc4c5e3e",
+      "exampaper": "2018年广州市中考试卷（作为模拟）",
+      "year": "2018",
+      "district": "",
+      "subjectid": "数学",
+      "sectionid": "初中",
+      "gradeid": "初三",
+      "examtype": "真题"
+    },
+    {
+      "examid": "6306179e-56af-484a-a2f2-92e20cd1295c",
+      "exampaper": "特殊试卷",
+      "year": "2018",
+      "district": "",
+      "subjectid": "数学",
+      "sectionid": "初中",
+      "gradeid": "初三",
+      "examtype": "真题"
+    },
+    {
+      "examid": "65470276-af7d-4aa8-91c4-898b908e9d3a",
+      "exampaper": "2018年深圳市中考试卷（作为模拟）",
+      "year": "2018",
       "district": "",
       "subjectid": "数学",
       "sectionid": "初中",

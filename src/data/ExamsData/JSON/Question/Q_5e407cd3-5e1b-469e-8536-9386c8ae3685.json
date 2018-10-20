@@ -1,9 +1,0 @@
-﻿{
-  "topic": "",
-  "content": "（3）、     为推选一名同学参加学校的演讲比赛，班里组织了一次选拔赛，由教师组成评委，对甲、乙、丙三名候选人分别从演讲内容、语言表达能力和感染力三方面打分，评委打分的结果如表:  <div align=center>  <table Table border=1 cellspacing=0 cellpadding=0  >  <tr>   <td width=116 valign=top >   <p  align=center >测试项目</p>   </td>   <td width=100 valign=top >   <p  align=center >演讲内容</p>   </td>   <td width=128 valign=top >   <p  align=center >语言表达能力</p>   </td>   <td width=112 valign=top >   <p  align=center >感染力</p>   </td>  </tr>  <tr>   <td width=116 valign=top >   <p  align=center >甲的成绩</p>   </td>   <td width=100 valign=top >   <p  align=center >9.0</p>   </td>   <td width=128 valign=top >   <p  align=center >8.6</p>   </td>   <td width=112 valign=top >   <p  align=center >8.0</p>   </td>  </tr>  <tr>   <td width=116 valign=top >   <p  align=center >乙的成绩</p>   </td>   <td width=100 valign=top >   <p  align=center >8.0</p>   </td>   <td width=128 valign=top >   <p  align=center >9.2</p>   </td>   <td width=112 valign=top >   <p  align=center >8.2</p>   </td>  </tr>  <tr >   <td width=116 valign=top >   <p  align=center >丙的成绩</p>   </td>   <td width=100 valign=top >   <p  align=center >9.4</p>   </td>   <td width=128 valign=top >   <p  align=center >8.8</p>   </td>   <td width=112 valign=top >   <p  align=center >7.5</p>   </td>  </tr> </table>  </div>    <p>1）如果按三项得分的算术平均数确定优胜者，谁是优胜者？</p>",
-  "selectoptions": [],
-  "answer": "丙是优胜者。",
-  "analysis": "计算算术平均值，甲的成绩为（9.0+8.6+8.0）÷3 = 8.53分，乙的成绩为（8.0+9.2+8.2）÷3 = 8.47分，丙的成绩为（9.4+8.8+7.5）÷3 = 8.57分。    <p>2）如果三项得分分别按25%，35%，40%的比例计算总成绩，谁是优胜者？ </p>",
-  "knowledge": "<B>统计表，算术平均数</B>",
-  "subquestions": []
-}
